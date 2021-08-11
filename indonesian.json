@@ -1,0 +1,4003 @@
+{
+  "data": [{
+      "source": "a",
+      "target": "a"
+    },
+    {
+      "source": "kemampuan",
+      "target": "ability"
+    },
+    {
+      "source": "sanggup",
+      "target": "able"
+    },
+    {
+      "source": "tentang",
+      "target": "about"
+    },
+    {
+      "source": "atas",
+      "target": "above"
+    },
+    {
+      "source": "menerima",
+      "target": "accept"
+    },
+    {
+      "source": "Menurutnya",
+      "target": "according"
+    },
+    {
+      "source": "Akun",
+      "target": "account"
+    },
+    {
+      "source": "di seberang",
+      "target": "across"
+    },
+    {
+      "source": "bertindak",
+      "target": "act"
+    },
+    {
+      "source": "tindakan",
+      "target": "action"
+    },
+    {
+      "source": "aktivitas",
+      "target": "activity"
+    },
+    {
+      "source": "sebenarnya",
+      "target": "actually"
+    },
+    {
+      "source": "Menambahkan",
+      "target": "add"
+    },
+    {
+      "source": "alamat",
+      "target": "address"
+    },
+    {
+      "source": "administrasi",
+      "target": "administration"
+    },
+    {
+      "source": "mengakui",
+      "target": "admit"
+    },
+    {
+      "source": "dewasa",
+      "target": "adult"
+    },
+    {
+      "source": "mempengaruhi",
+      "target": "affect"
+    },
+    {
+      "source": "setelah",
+      "target": "after"
+    },
+    {
+      "source": "lagi",
+      "target": "again"
+    },
+    {
+      "source": "melawan",
+      "target": "against"
+    },
+    {
+      "source": "usia",
+      "target": "age"
+    },
+    {
+      "source": "agen",
+      "target": "agency"
+    },
+    {
+      "source": "agen",
+      "target": "agent"
+    },
+    {
+      "source": "lalu",
+      "target": "ago"
+    },
+    {
+      "source": "setuju",
+      "target": "agree"
+    },
+    {
+      "source": "persetujuan",
+      "target": "agreement"
+    },
+    {
+      "source": "di depan",
+      "target": "ahead"
+    },
+    {
+      "source": "udara",
+      "target": "air"
+    },
+    {
+      "source": "semua",
+      "target": "all"
+    },
+    {
+      "source": "mengizinkan",
+      "target": "allow"
+    },
+    {
+      "source": "hampir",
+      "target": "almost"
+    },
+    {
+      "source": "sendirian",
+      "target": "alone"
+    },
+    {
+      "source": "sepanjang",
+      "target": "along"
+    },
+    {
+      "source": "sudah",
+      "target": "already"
+    },
+    {
+      "source": "juga",
+      "target": "also"
+    },
+    {
+      "source": "meskipun",
+      "target": "although"
+    },
+    {
+      "source": "selalu",
+      "target": "always"
+    },
+    {
+      "source": "Amerika",
+      "target": "American"
+    },
+    {
+      "source": "antara",
+      "target": "among"
+    },
+    {
+      "source": "jumlah",
+      "target": "amount"
+    },
+    {
+      "source": "analisis",
+      "target": "analysis"
+    },
+    {
+      "source": "dan",
+      "target": "and"
+    },
+    {
+      "source": "satwa",
+      "target": "animal"
+    },
+    {
+      "source": "lain",
+      "target": "another"
+    },
+    {
+      "source": "menjawab",
+      "target": "answer"
+    },
+    {
+      "source": "apa saja",
+      "target": "any"
+    },
+    {
+      "source": "siapa saja",
+      "target": "anyone"
+    },
+    {
+      "source": "apa pun",
+      "target": "anything"
+    },
+    {
+      "source": "muncul",
+      "target": "appear"
+    },
+    {
+      "source": "menerapkan",
+      "target": "apply"
+    },
+    {
+      "source": "pendekatan",
+      "target": "approach"
+    },
+    {
+      "source": "daerah",
+      "target": "area"
+    },
+    {
+      "source": "memperdebatkan",
+      "target": "argue"
+    },
+    {
+      "source": "lengan",
+      "target": "arm"
+    },
+    {
+      "source": "sekitar",
+      "target": "around"
+    },
+    {
+      "source": "tiba",
+      "target": "arrive"
+    },
+    {
+      "source": "seni",
+      "target": "art"
+    },
+    {
+      "source": "artikel",
+      "target": "article"
+    },
+    {
+      "source": "artis",
+      "target": "artist"
+    },
+    {
+      "source": "sebagai",
+      "target": "as"
+    },
+    {
+      "source": "meminta",
+      "target": "ask"
+    },
+    {
+      "source": "menganggap",
+      "target": "assume"
+    },
+    {
+      "source": "di",
+      "target": "at"
+    },
+    {
+      "source": "menyerang",
+      "target": "attack"
+    },
+    {
+      "source": "perhatian",
+      "target": "attention"
+    },
+    {
+      "source": "pengacara",
+      "target": "attorney"
+    },
+    {
+      "source": "hadirin",
+      "target": "audience"
+    },
+    {
+      "source": "penulis",
+      "target": "author"
+    },
+    {
+      "source": "wewenang",
+      "target": "authority"
+    },
+    {
+      "source": "tersedia",
+      "target": "available"
+    },
+    {
+      "source": "menghindari",
+      "target": "avoid"
+    },
+    {
+      "source": "jauh",
+      "target": "away"
+    },
+    {
+      "source": "bayi",
+      "target": "baby"
+    },
+    {
+      "source": "kembali",
+      "target": "back"
+    },
+    {
+      "source": "buruk",
+      "target": "bad"
+    },
+    {
+      "source": "tas",
+      "target": "bag"
+    },
+    {
+      "source": "bola",
+      "target": "ball"
+    },
+    {
+      "source": "bank",
+      "target": "bank"
+    },
+    {
+      "source": "batang",
+      "target": "bar"
+    },
+    {
+      "source": "mendasarkan",
+      "target": "base"
+    },
+    {
+      "source": "menjadi",
+      "target": "be"
+    },
+    {
+      "source": "mengalahkan",
+      "target": "beat"
+    },
+    {
+      "source": "Cantik",
+      "target": "beautiful"
+    },
+    {
+      "source": "karena",
+      "target": "because"
+    },
+    {
+      "source": "menjadi",
+      "target": "become"
+    },
+    {
+      "source": "tempat tidur",
+      "target": "bed"
+    },
+    {
+      "source": "sebelum",
+      "target": "before"
+    },
+    {
+      "source": "mulai",
+      "target": "begin"
+    },
+    {
+      "source": "tingkah laku",
+      "target": "behavior"
+    },
+    {
+      "source": "dibelakang",
+      "target": "behind"
+    },
+    {
+      "source": "percaya",
+      "target": "believe"
+    },
+    {
+      "source": "manfaat",
+      "target": "benefit"
+    },
+    {
+      "source": "terbaik",
+      "target": "best"
+    },
+    {
+      "source": "lebih baik",
+      "target": "better"
+    },
+    {
+      "source": "antara",
+      "target": "between"
+    },
+    {
+      "source": "luar",
+      "target": "beyond"
+    },
+    {
+      "source": "besar",
+      "target": "big"
+    },
+    {
+      "source": "tagihan",
+      "target": "bill"
+    },
+    {
+      "source": "milyar",
+      "target": "billion"
+    },
+    {
+      "source": "sedikit",
+      "target": "bit"
+    },
+    {
+      "source": "hitam",
+      "target": "black"
+    },
+    {
+      "source": "darah",
+      "target": "blood"
+    },
+    {
+      "source": "biru",
+      "target": "blue"
+    },
+    {
+      "source": "naik",
+      "target": "board"
+    },
+    {
+      "source": "tubuh",
+      "target": "body"
+    },
+    {
+      "source": "Book",
+      "target": "book"
+    },
+    {
+      "source": "lahir",
+      "target": "born"
+    },
+    {
+      "source": "kedua",
+      "target": "both"
+    },
+    {
+      "source": "kotak",
+      "target": "box"
+    },
+    {
+      "source": "anak laki-laki",
+      "target": "boy"
+    },
+    {
+      "source": "istirahat",
+      "target": "break"
+    },
+    {
+      "source": "membawa",
+      "target": "bring"
+    },
+    {
+      "source": "saudara",
+      "target": "brother"
+    },
+    {
+      "source": "Anggaran",
+      "target": "budget"
+    },
+    {
+      "source": "membangun",
+      "target": "build"
+    },
+    {
+      "source": "bangunan",
+      "target": "building"
+    },
+    {
+      "source": "bisnis",
+      "target": "business"
+    },
+    {
+      "source": "tapi",
+      "target": "but"
+    },
+    {
+      "source": "membeli",
+      "target": "buy"
+    },
+    {
+      "source": "oleh",
+      "target": "by"
+    },
+    {
+      "source": "panggilan",
+      "target": "call"
+    },
+    {
+      "source": "kamera",
+      "target": "camera"
+    },
+    {
+      "source": "kampanye",
+      "target": "campaign"
+    },
+    {
+      "source": "bisa",
+      "target": "can"
+    },
+    {
+      "source": "kanker",
+      "target": "cancer"
+    },
+    {
+      "source": "calon",
+      "target": "candidate"
+    },
+    {
+      "source": "modal",
+      "target": "capital"
+    },
+    {
+      "source": "mobil",
+      "target": "car"
+    },
+    {
+      "source": "kartu",
+      "target": "card"
+    },
+    {
+      "source": "peduli",
+      "target": "care"
+    },
+    {
+      "source": "karier",
+      "target": "career"
+    },
+    {
+      "source": "membawa",
+      "target": "carry"
+    },
+    {
+      "source": "kasus",
+      "target": "case"
+    },
+    {
+      "source": "menangkap",
+      "target": "catch"
+    },
+    {
+      "source": "sebab",
+      "target": "cause"
+    },
+    {
+      "source": "sel",
+      "target": "cell"
+    },
+    {
+      "source": "pusat",
+      "target": "center"
+    },
+    {
+      "source": "pusat",
+      "target": "central"
+    },
+    {
+      "source": "abad",
+      "target": "century"
+    },
+    {
+      "source": "tertentu",
+      "target": "certain"
+    },
+    {
+      "source": "pasti",
+      "target": "certainly"
+    },
+    {
+      "source": "kursi",
+      "target": "chair"
+    },
+    {
+      "source": "tantangan",
+      "target": "challenge"
+    },
+    {
+      "source": "kesempatan",
+      "target": "chance"
+    },
+    {
+      "source": "perubahan",
+      "target": "change"
+    },
+    {
+      "source": "karakter",
+      "target": "character"
+    },
+    {
+      "source": "biaya",
+      "target": "charge"
+    },
+    {
+      "source": "memeriksa",
+      "target": "check"
+    },
+    {
+      "source": "anak",
+      "target": "child"
+    },
+    {
+      "source": "pilihan",
+      "target": "choice"
+    },
+    {
+      "source": "memilih",
+      "target": "choose"
+    },
+    {
+      "source": "gereja",
+      "target": "church"
+    },
+    {
+      "source": "warganegara",
+      "target": "citizen"
+    },
+    {
+      "source": "kota",
+      "target": "city"
+    },
+    {
+      "source": "sipil",
+      "target": "civil"
+    },
+    {
+      "source": "klaim",
+      "target": "claim"
+    },
+    {
+      "source": "kelas",
+      "target": "class"
+    },
+    {
+      "source": "bersih",
+      "target": "clear"
+    },
+    {
+      "source": "jelas",
+      "target": "clearly"
+    },
+    {
+      "source": "Menutup",
+      "target": "close"
+    },
+    {
+      "source": "pelatih",
+      "target": "coach"
+    },
+    {
+      "source": "dingin",
+      "target": "cold"
+    },
+    {
+      "source": "koleksi",
+      "target": "collection"
+    },
+    {
+      "source": "perguruan tinggi",
+      "target": "college"
+    },
+    {
+      "source": "warna",
+      "target": "color"
+    },
+    {
+      "source": "datang",
+      "target": "come"
+    },
+    {
+      "source": "komersial",
+      "target": "commercial"
+    },
+    {
+      "source": "umum",
+      "target": "common"
+    },
+    {
+      "source": "masyarakat",
+      "target": "community"
+    },
+    {
+      "source": "perusahaan",
+      "target": "company"
+    },
+    {
+      "source": "membandingkan",
+      "target": "compare"
+    },
+    {
+      "source": "komputer",
+      "target": "computer"
+    },
+    {
+      "source": "perhatian",
+      "target": "concern"
+    },
+    {
+      "source": "kondisi",
+      "target": "condition"
+    },
+    {
+      "source": "konferensi",
+      "target": "conference"
+    },
+    {
+      "source": "Kongres",
+      "target": "Congress"
+    },
+    {
+      "source": "mempertimbangkan",
+      "target": "consider"
+    },
+    {
+      "source": "konsumen",
+      "target": "consumer"
+    },
+    {
+      "source": "berisi",
+      "target": "contain"
+    },
+    {
+      "source": "terus",
+      "target": "continue"
+    },
+    {
+      "source": "kontrol",
+      "target": "control"
+    },
+    {
+      "source": "biaya",
+      "target": "cost"
+    },
+    {
+      "source": "bisa",
+      "target": "could"
+    },
+    {
+      "source": "negara",
+      "target": "country"
+    },
+    {
+      "source": "pasangan",
+      "target": "couple"
+    },
+    {
+      "source": "tentu saja",
+      "target": "course"
+    },
+    {
+      "source": "pengadilan",
+      "target": "court"
+    },
+    {
+      "source": "penutup",
+      "target": "cover"
+    },
+    {
+      "source": "membuat",
+      "target": "create"
+    },
+    {
+      "source": "kejahatan",
+      "target": "crime"
+    },
+    {
+      "source": "kultural",
+      "target": "cultural"
+    },
+    {
+      "source": "budaya",
+      "target": "culture"
+    },
+    {
+      "source": "cangkir",
+      "target": "cup"
+    },
+    {
+      "source": "arus",
+      "target": "current"
+    },
+    {
+      "source": "pelanggan",
+      "target": "customer"
+    },
+    {
+      "source": "memotong",
+      "target": "cut"
+    },
+    {
+      "source": "gelap",
+      "target": "dark"
+    },
+    {
+      "source": "data",
+      "target": "data"
+    },
+    {
+      "source": "putri",
+      "target": "daughter"
+    },
+    {
+      "source": "hari",
+      "target": "day"
+    },
+    {
+      "source": "mati",
+      "target": "dead"
+    },
+    {
+      "source": "Sepakat",
+      "target": "deal"
+    },
+    {
+      "source": "kematian",
+      "target": "death"
+    },
+    {
+      "source": "perdebatan",
+      "target": "debate"
+    },
+    {
+      "source": "dasawarsa",
+      "target": "decade"
+    },
+    {
+      "source": "memutuskan",
+      "target": "decide"
+    },
+    {
+      "source": "keputusan",
+      "target": "decision"
+    },
+    {
+      "source": "dalam",
+      "target": "deep"
+    },
+    {
+      "source": "pertahanan",
+      "target": "defense"
+    },
+    {
+      "source": "gelar",
+      "target": "degree"
+    },
+    {
+      "source": "Demokrat",
+      "target": "Democrat"
+    },
+    {
+      "source": "demokratis",
+      "target": "democratic"
+    },
+    {
+      "source": "menggambarkan",
+      "target": "describe"
+    },
+    {
+      "source": "rancangan",
+      "target": "design"
+    },
+    {
+      "source": "meskipun",
+      "target": "despite"
+    },
+    {
+      "source": "rinci",
+      "target": "detail"
+    },
+    {
+      "source": "menentukan",
+      "target": "determine"
+    },
+    {
+      "source": "mengembangkan",
+      "target": "develop"
+    },
+    {
+      "source": "pengembangan",
+      "target": "development"
+    },
+    {
+      "source": "itu",
+      "target": "die"
+    },
+    {
+      "source": "perbedaan",
+      "target": "difference"
+    },
+    {
+      "source": "berbeda",
+      "target": "different"
+    },
+    {
+      "source": "sulit",
+      "target": "difficult"
+    },
+    {
+      "source": "makan malam",
+      "target": "dinner"
+    },
+    {
+      "source": "arah",
+      "target": "direction"
+    },
+    {
+      "source": "Direktur",
+      "target": "director"
+    },
+    {
+      "source": "menemukan",
+      "target": "discover"
+    },
+    {
+      "source": "Bahas",
+      "target": "discuss"
+    },
+    {
+      "source": "diskusi",
+      "target": "discussion"
+    },
+    {
+      "source": "penyakit",
+      "target": "disease"
+    },
+    {
+      "source": "melakukan",
+      "target": "do"
+    },
+    {
+      "source": "dokter",
+      "target": "doctor"
+    },
+    {
+      "source": "anjing",
+      "target": "dog"
+    },
+    {
+      "source": "pintu",
+      "target": "door"
+    },
+    {
+      "source": "turun",
+      "target": "down"
+    },
+    {
+      "source": "seri",
+      "target": "draw"
+    },
+    {
+      "source": "mimpi",
+      "target": "dream"
+    },
+    {
+      "source": "mendorong",
+      "target": "drive"
+    },
+    {
+      "source": "penurunan",
+      "target": "drop"
+    },
+    {
+      "source": "obat",
+      "target": "drug"
+    },
+    {
+      "source": "selama",
+      "target": "during"
+    },
+    {
+      "source": "setiap",
+      "target": "each"
+    },
+    {
+      "source": "dini",
+      "target": "early"
+    },
+    {
+      "source": "timur",
+      "target": "east"
+    },
+    {
+      "source": "mudah",
+      "target": "easy"
+    },
+    {
+      "source": "makan",
+      "target": "eat"
+    },
+    {
+      "source": "ekonomis",
+      "target": "economic"
+    },
+    {
+      "source": "ekonomi",
+      "target": "economy"
+    },
+    {
+      "source": "tepi",
+      "target": "edge"
+    },
+    {
+      "source": "pendidikan",
+      "target": "education"
+    },
+    {
+      "source": "efek",
+      "target": "effect"
+    },
+    {
+      "source": "upaya",
+      "target": "effort"
+    },
+    {
+      "source": "delapan",
+      "target": "eight"
+    },
+    {
+      "source": "antara",
+      "target": "either"
+    },
+    {
+      "source": "pemilihan",
+      "target": "election"
+    },
+    {
+      "source": "lain",
+      "target": "else"
+    },
+    {
+      "source": "karyawan",
+      "target": "employee"
+    },
+    {
+      "source": "akhir",
+      "target": "end"
+    },
+    {
+      "source": "energi",
+      "target": "energy"
+    },
+    {
+      "source": "Nikmati",
+      "target": "enjoy"
+    },
+    {
+      "source": "cukup",
+      "target": "enough"
+    },
+    {
+      "source": "memasukkan",
+      "target": "enter"
+    },
+    {
+      "source": "seluruh",
+      "target": "entire"
+    },
+    {
+      "source": "lingkungan Hidup",
+      "target": "environment"
+    },
+    {
+      "source": "Lingkungan.",
+      "target": "environmental"
+    },
+    {
+      "source": "terutama",
+      "target": "especially"
+    },
+    {
+      "source": "mendirikan",
+      "target": "establish"
+    },
+    {
+      "source": "bahkan",
+      "target": "even"
+    },
+    {
+      "source": "malam",
+      "target": "evening"
+    },
+    {
+      "source": "peristiwa",
+      "target": "event"
+    },
+    {
+      "source": "pernah",
+      "target": "ever"
+    },
+    {
+      "source": "setiap",
+      "target": "every"
+    },
+    {
+      "source": "semua orang",
+      "target": "everybody"
+    },
+    {
+      "source": "semua orang",
+      "target": "everyone"
+    },
+    {
+      "source": "segala sesuatu",
+      "target": "everything"
+    },
+    {
+      "source": "bukti",
+      "target": "evidence"
+    },
+    {
+      "source": "persis",
+      "target": "exactly"
+    },
+    {
+      "source": "contoh",
+      "target": "example"
+    },
+    {
+      "source": "eksekutif",
+      "target": "executive"
+    },
+    {
+      "source": "ada",
+      "target": "exist"
+    },
+    {
+      "source": "mengharapkan",
+      "target": "expect"
+    },
+    {
+      "source": "pengalaman",
+      "target": "experience"
+    },
+    {
+      "source": "ahli",
+      "target": "expert"
+    },
+    {
+      "source": "menjelaskan",
+      "target": "explain"
+    },
+    {
+      "source": "mata",
+      "target": "eye"
+    },
+    {
+      "source": "wajah",
+      "target": "face"
+    },
+    {
+      "source": "fakta",
+      "target": "fact"
+    },
+    {
+      "source": "faktor",
+      "target": "factor"
+    },
+    {
+      "source": "gagal",
+      "target": "fail"
+    },
+    {
+      "source": "jatuh",
+      "target": "fall"
+    },
+    {
+      "source": "keluarga",
+      "target": "family"
+    },
+    {
+      "source": "jauh",
+      "target": "far"
+    },
+    {
+      "source": "cepat",
+      "target": "fast"
+    },
+    {
+      "source": "ayah",
+      "target": "father"
+    },
+    {
+      "source": "takut",
+      "target": "fear"
+    },
+    {
+      "source": "federal",
+      "target": "federal"
+    },
+    {
+      "source": "merasa",
+      "target": "feel"
+    },
+    {
+      "source": "perasaan",
+      "target": "feeling"
+    },
+    {
+      "source": "beberapa",
+      "target": "few"
+    },
+    {
+      "source": "bidang",
+      "target": "field"
+    },
+    {
+      "source": "pertarungan",
+      "target": "fight"
+    },
+    {
+      "source": "angka",
+      "target": "figure"
+    },
+    {
+      "source": "mengisi",
+      "target": "fill"
+    },
+    {
+      "source": "film",
+      "target": "film"
+    },
+    {
+      "source": "terakhir",
+      "target": "final"
+    },
+    {
+      "source": "akhirnya",
+      "target": "finally"
+    },
+    {
+      "source": "keuangan",
+      "target": "financial"
+    },
+    {
+      "source": "Temukan",
+      "target": "find"
+    },
+    {
+      "source": "baik",
+      "target": "fine"
+    },
+    {
+      "source": "jari",
+      "target": "finger"
+    },
+    {
+      "source": "selesai",
+      "target": "finish"
+    },
+    {
+      "source": "api",
+      "target": "fire"
+    },
+    {
+      "source": "perusahaan",
+      "target": "firm"
+    },
+    {
+      "source": "pertama",
+      "target": "first"
+    },
+    {
+      "source": "ikan",
+      "target": "fish"
+    },
+    {
+      "source": "lima",
+      "target": "five"
+    },
+    {
+      "source": "lantai",
+      "target": "floor"
+    },
+    {
+      "source": "terbang",
+      "target": "fly"
+    },
+    {
+      "source": "fokus",
+      "target": "focus"
+    },
+    {
+      "source": "mengikuti",
+      "target": "follow"
+    },
+    {
+      "source": "makanan",
+      "target": "food"
+    },
+    {
+      "source": "kaki",
+      "target": "foot"
+    },
+    {
+      "source": "untuk",
+      "target": "for"
+    },
+    {
+      "source": "memaksa",
+      "target": "force"
+    },
+    {
+      "source": "asing",
+      "target": "foreign"
+    },
+    {
+      "source": "lupa",
+      "target": "forget"
+    },
+    {
+      "source": "untuk m",
+      "target": "form"
+    },
+    {
+      "source": "bekas",
+      "target": "former"
+    },
+    {
+      "source": "meneruskan",
+      "target": "forward"
+    },
+    {
+      "source": "empat.",
+      "target": "four"
+    },
+    {
+      "source": "Gratis",
+      "target": "free"
+    },
+    {
+      "source": "teman",
+      "target": "friend"
+    },
+    {
+      "source": "dari",
+      "target": "from"
+    },
+    {
+      "source": "depan",
+      "target": "front"
+    },
+    {
+      "source": "penuh",
+      "target": "full"
+    },
+    {
+      "source": "dana",
+      "target": "fund"
+    },
+    {
+      "source": "masa depan",
+      "target": "future"
+    },
+    {
+      "source": "permainan",
+      "target": "game"
+    },
+    {
+      "source": "taman",
+      "target": "garden"
+    },
+    {
+      "source": "gas",
+      "target": "gas"
+    },
+    {
+      "source": "umum",
+      "target": "general"
+    },
+    {
+      "source": "generasi",
+      "target": "generation"
+    },
+    {
+      "source": "Dapatkan",
+      "target": "get"
+    },
+    {
+      "source": "gadis",
+      "target": "girl"
+    },
+    {
+      "source": "memberikan",
+      "target": "give"
+    },
+    {
+      "source": "kaca",
+      "target": "glass"
+    },
+    {
+      "source": "Pergilah",
+      "target": "go"
+    },
+    {
+      "source": "tujuan",
+      "target": "goal"
+    },
+    {
+      "source": "baik",
+      "target": "good"
+    },
+    {
+      "source": "pemerintah",
+      "target": "government"
+    },
+    {
+      "source": "Bagus",
+      "target": "great"
+    },
+    {
+      "source": "hijau",
+      "target": "green"
+    },
+    {
+      "source": "tanah",
+      "target": "ground"
+    },
+    {
+      "source": "kelompok",
+      "target": "group"
+    },
+    {
+      "source": "tumbuh",
+      "target": "grow"
+    },
+    {
+      "source": "pertumbuhan",
+      "target": "growth"
+    },
+    {
+      "source": "Tebak",
+      "target": "guess"
+    },
+    {
+      "source": "senjata",
+      "target": "gun"
+    },
+    {
+      "source": "orang",
+      "target": "guy"
+    },
+    {
+      "source": "rambut",
+      "target": "hair"
+    },
+    {
+      "source": "setengah",
+      "target": "half"
+    },
+    {
+      "source": "tangan",
+      "target": "hand"
+    },
+    {
+      "source": "menggantung",
+      "target": "hang"
+    },
+    {
+      "source": "terjadi",
+      "target": "happen"
+    },
+    {
+      "source": "senang",
+      "target": "happy"
+    },
+    {
+      "source": "keras",
+      "target": "hard"
+    },
+    {
+      "source": "memiliki",
+      "target": "have"
+    },
+    {
+      "source": "dia",
+      "target": "he"
+    },
+    {
+      "source": "kepala",
+      "target": "head"
+    },
+    {
+      "source": "kesehatan",
+      "target": "health"
+    },
+    {
+      "source": "mendengar",
+      "target": "hear"
+    },
+    {
+      "source": "jantung",
+      "target": "heart"
+    },
+    {
+      "source": "panas",
+      "target": "heat"
+    },
+    {
+      "source": "berat",
+      "target": "heavy"
+    },
+    {
+      "source": "Tolong",
+      "target": "help"
+    },
+    {
+      "source": "-nya",
+      "target": "her"
+    },
+    {
+      "source": "sini",
+      "target": "here"
+    },
+    {
+      "source": "diri",
+      "target": "herself"
+    },
+    {
+      "source": "tinggi",
+      "target": "high"
+    },
+    {
+      "source": "dia",
+      "target": "him"
+    },
+    {
+      "source": "diri",
+      "target": "himself"
+    },
+    {
+      "source": "-nya",
+      "target": "his"
+    },
+    {
+      "source": "sejarah",
+      "target": "history"
+    },
+    {
+      "source": "memukul",
+      "target": "hit"
+    },
+    {
+      "source": "memegang",
+      "target": "hold"
+    },
+    {
+      "source": "rumah",
+      "target": "home"
+    },
+    {
+      "source": "berharap",
+      "target": "hope"
+    },
+    {
+      "source": "RSUD",
+      "target": "hospital"
+    },
+    {
+      "source": "panas",
+      "target": "hot"
+    },
+    {
+      "source": "hotel",
+      "target": "hotel"
+    },
+    {
+      "source": "jam",
+      "target": "hour"
+    },
+    {
+      "source": "rumah",
+      "target": "house"
+    },
+    {
+      "source": "bagaimana",
+      "target": "how"
+    },
+    {
+      "source": "namun",
+      "target": "however"
+    },
+    {
+      "source": "besar",
+      "target": "huge"
+    },
+    {
+      "source": "manusia",
+      "target": "human"
+    },
+    {
+      "source": "ratus",
+      "target": "hundred"
+    },
+    {
+      "source": "Suami",
+      "target": "husband"
+    },
+    {
+      "source": "saya",
+      "target": "I"
+    },
+    {
+      "source": "ide",
+      "target": "idea"
+    },
+    {
+      "source": "mengenali",
+      "target": "identify"
+    },
+    {
+      "source": "jika",
+      "target": "if"
+    },
+    {
+      "source": "gambar",
+      "target": "image"
+    },
+    {
+      "source": "membayangkan",
+      "target": "imagine"
+    },
+    {
+      "source": "dampak",
+      "target": "impact"
+    },
+    {
+      "source": "penting",
+      "target": "important"
+    },
+    {
+      "source": "memperbaiki",
+      "target": "improve"
+    },
+    {
+      "source": "di",
+      "target": "in"
+    },
+    {
+      "source": "termasuk",
+      "target": "include"
+    },
+    {
+      "source": "termasuk",
+      "target": "including"
+    },
+    {
+      "source": "meningkatkan",
+      "target": "increase"
+    },
+    {
+      "source": "memang",
+      "target": "indeed"
+    },
+    {
+      "source": "menunjukkan",
+      "target": "indicate"
+    },
+    {
+      "source": "individu",
+      "target": "individual"
+    },
+    {
+      "source": "industri",
+      "target": "industry"
+    },
+    {
+      "source": "informasi",
+      "target": "information"
+    },
+    {
+      "source": "dalam",
+      "target": "inside"
+    },
+    {
+      "source": "sebagai gantinya",
+      "target": "instead"
+    },
+    {
+      "source": "lembaga",
+      "target": "institution"
+    },
+    {
+      "source": "bunga",
+      "target": "interest"
+    },
+    {
+      "source": "menarik",
+      "target": "interesting"
+    },
+    {
+      "source": "internasional",
+      "target": "international"
+    },
+    {
+      "source": "wawancara",
+      "target": "interview"
+    },
+    {
+      "source": "ke",
+      "target": "into"
+    },
+    {
+      "source": "investasi",
+      "target": "investment"
+    },
+    {
+      "source": "melibatkan",
+      "target": "involve"
+    },
+    {
+      "source": "isu",
+      "target": "issue"
+    },
+    {
+      "source": "saya t",
+      "target": "it"
+    },
+    {
+      "source": "barang",
+      "target": "item"
+    },
+    {
+      "source": "-nya",
+      "target": "its"
+    },
+    {
+      "source": "diri",
+      "target": "itself"
+    },
+    {
+      "source": "pekerjaan",
+      "target": "job"
+    },
+    {
+      "source": "Ikuti",
+      "target": "join"
+    },
+    {
+      "source": "hanya",
+      "target": "just"
+    },
+    {
+      "source": "menjaga",
+      "target": "keep"
+    },
+    {
+      "source": "kunci",
+      "target": "key"
+    },
+    {
+      "source": "anak",
+      "target": "kid"
+    },
+    {
+      "source": "membunuh",
+      "target": "kill"
+    },
+    {
+      "source": "jenis",
+      "target": "kind"
+    },
+    {
+      "source": "dapur",
+      "target": "kitchen"
+    },
+    {
+      "source": "tahu",
+      "target": "know"
+    },
+    {
+      "source": "pengetahuan",
+      "target": "knowledge"
+    },
+    {
+      "source": "tanah",
+      "target": "land"
+    },
+    {
+      "source": "bahasa",
+      "target": "language"
+    },
+    {
+      "source": "besar",
+      "target": "large"
+    },
+    {
+      "source": "terakhir",
+      "target": "last"
+    },
+    {
+      "source": "terlambat",
+      "target": "late"
+    },
+    {
+      "source": "kemudian",
+      "target": "later"
+    },
+    {
+      "source": "tertawa",
+      "target": "laugh"
+    },
+    {
+      "source": "hukum",
+      "target": "law"
+    },
+    {
+      "source": "pengacara",
+      "target": "lawyer"
+    },
+    {
+      "source": "awam",
+      "target": "lay"
+    },
+    {
+      "source": "memimpin",
+      "target": "lead"
+    },
+    {
+      "source": "pemimpin",
+      "target": "leader"
+    },
+    {
+      "source": "belajar",
+      "target": "learn"
+    },
+    {
+      "source": "paling sedikit",
+      "target": "least"
+    },
+    {
+      "source": "meninggalkan",
+      "target": "leave"
+    },
+    {
+      "source": "kiri",
+      "target": "left"
+    },
+    {
+      "source": "kaki",
+      "target": "leg"
+    },
+    {
+      "source": "hukum",
+      "target": "legal"
+    },
+    {
+      "source": "kurang",
+      "target": "less"
+    },
+    {
+      "source": "membiarkan",
+      "target": "let"
+    },
+    {
+      "source": "surat",
+      "target": "letter"
+    },
+    {
+      "source": "tingkat",
+      "target": "level"
+    },
+    {
+      "source": "berbohong",
+      "target": "lie"
+    },
+    {
+      "source": "kehidupan",
+      "target": "life"
+    },
+    {
+      "source": "cahaya",
+      "target": "light"
+    },
+    {
+      "source": "Suka",
+      "target": "like"
+    },
+    {
+      "source": "mungkin",
+      "target": "likely"
+    },
+    {
+      "source": "garis",
+      "target": "line"
+    },
+    {
+      "source": "daftar",
+      "target": "list"
+    },
+    {
+      "source": "mendengarkan",
+      "target": "listen"
+    },
+    {
+      "source": "sedikit",
+      "target": "little"
+    },
+    {
+      "source": "hidup",
+      "target": "live"
+    },
+    {
+      "source": "lokal",
+      "target": "local"
+    },
+    {
+      "source": "panjang",
+      "target": "long"
+    },
+    {
+      "source": "Lihat",
+      "target": "look"
+    },
+    {
+      "source": "kalah",
+      "target": "lose"
+    },
+    {
+      "source": "kerugian",
+      "target": "loss"
+    },
+    {
+      "source": "Lot.",
+      "target": "lot"
+    },
+    {
+      "source": "cinta",
+      "target": "love"
+    },
+    {
+      "source": "rendah",
+      "target": "low"
+    },
+    {
+      "source": "mesin",
+      "target": "machine"
+    },
+    {
+      "source": "majalah",
+      "target": "magazine"
+    },
+    {
+      "source": "utama",
+      "target": "main"
+    },
+    {
+      "source": "mempertahankan",
+      "target": "maintain"
+    },
+    {
+      "source": "utama",
+      "target": "major"
+    },
+    {
+      "source": "mayoritas",
+      "target": "majority"
+    },
+    {
+      "source": "membuat",
+      "target": "make"
+    },
+    {
+      "source": "manusia",
+      "target": "man"
+    },
+    {
+      "source": "mengelola",
+      "target": "manage"
+    },
+    {
+      "source": "pengelolaan",
+      "target": "management"
+    },
+    {
+      "source": "Pengelola",
+      "target": "manager"
+    },
+    {
+      "source": "banyak",
+      "target": "many"
+    },
+    {
+      "source": "pasar",
+      "target": "market"
+    },
+    {
+      "source": "pernikahan",
+      "target": "marriage"
+    },
+    {
+      "source": "bahan",
+      "target": "material"
+    },
+    {
+      "source": "masalah",
+      "target": "matter"
+    },
+    {
+      "source": "mungkin",
+      "target": "may"
+    },
+    {
+      "source": "mungkin",
+      "target": "maybe"
+    },
+    {
+      "source": "saya",
+      "target": "me"
+    },
+    {
+      "source": "berarti",
+      "target": "mean"
+    },
+    {
+      "source": "mengukur",
+      "target": "measure"
+    },
+    {
+      "source": "media",
+      "target": "media"
+    },
+    {
+      "source": "medis",
+      "target": "medical"
+    },
+    {
+      "source": "memenuhi",
+      "target": "meet"
+    },
+    {
+      "source": "pertemuan",
+      "target": "meeting"
+    },
+    {
+      "source": "anggota",
+      "target": "member"
+    },
+    {
+      "source": "Penyimpanan",
+      "target": "memory"
+    },
+    {
+      "source": "menyebut",
+      "target": "mention"
+    },
+    {
+      "source": "pesan",
+      "target": "message"
+    },
+    {
+      "source": "metode",
+      "target": "method"
+    },
+    {
+      "source": "tengah",
+      "target": "middle"
+    },
+    {
+      "source": "mungkin",
+      "target": "might"
+    },
+    {
+      "source": "militer",
+      "target": "military"
+    },
+    {
+      "source": "juta",
+      "target": "million"
+    },
+    {
+      "source": "pikiran",
+      "target": "mind"
+    },
+    {
+      "source": "menit",
+      "target": "minute"
+    },
+    {
+      "source": "Rindu",
+      "target": "miss"
+    },
+    {
+      "source": "misi",
+      "target": "mission"
+    },
+    {
+      "source": "model",
+      "target": "model"
+    },
+    {
+      "source": "modern",
+      "target": "modern"
+    },
+    {
+      "source": "saat",
+      "target": "moment"
+    },
+    {
+      "source": "uang",
+      "target": "money"
+    },
+    {
+      "source": "bulan",
+      "target": "month"
+    },
+    {
+      "source": "lebih",
+      "target": "more"
+    },
+    {
+      "source": "pagi",
+      "target": "morning"
+    },
+    {
+      "source": "paling",
+      "target": "most"
+    },
+    {
+      "source": "ibu",
+      "target": "mother"
+    },
+    {
+      "source": "mulut",
+      "target": "mouth"
+    },
+    {
+      "source": "pindah",
+      "target": "move"
+    },
+    {
+      "source": "gerakan",
+      "target": "movement"
+    },
+    {
+      "source": "film",
+      "target": "movie"
+    },
+    {
+      "source": "Bapak",
+      "target": "Mr"
+    },
+    {
+      "source": "Nyonya",
+      "target": "Mrs"
+    },
+    {
+      "source": "banyak",
+      "target": "much"
+    },
+    {
+      "source": "musik",
+      "target": "music"
+    },
+    {
+      "source": "harus",
+      "target": "must"
+    },
+    {
+      "source": "saya",
+      "target": "my"
+    },
+    {
+      "source": "diri",
+      "target": "myself"
+    },
+    {
+      "source": "nama",
+      "target": "name"
+    },
+    {
+      "source": "bangsa",
+      "target": "nation"
+    },
+    {
+      "source": "Nasional",
+      "target": "national"
+    },
+    {
+      "source": "alam",
+      "target": "natural"
+    },
+    {
+      "source": "alam",
+      "target": "nature"
+    },
+    {
+      "source": "dekat",
+      "target": "near"
+    },
+    {
+      "source": "hampir",
+      "target": "nearly"
+    },
+    {
+      "source": "perlu",
+      "target": "necessary"
+    },
+    {
+      "source": "perlu",
+      "target": "need"
+    },
+    {
+      "source": "jaringan",
+      "target": "network"
+    },
+    {
+      "source": "tidak pernah",
+      "target": "never"
+    },
+    {
+      "source": "baru",
+      "target": "new"
+    },
+    {
+      "source": "berita",
+      "target": "news"
+    },
+    {
+      "source": "koran",
+      "target": "newspaper"
+    },
+    {
+      "source": "lanjut",
+      "target": "next"
+    },
+    {
+      "source": "bagus",
+      "target": "nice"
+    },
+    {
+      "source": "malam",
+      "target": "night"
+    },
+    {
+      "source": "tidak",
+      "target": "no"
+    },
+    {
+      "source": "Tidak ada",
+      "target": "none"
+    },
+    {
+      "source": "maupun",
+      "target": "nor"
+    },
+    {
+      "source": "utara",
+      "target": "north"
+    },
+    {
+      "source": "tidak",
+      "target": "not"
+    },
+    {
+      "source": "catatan",
+      "target": "note"
+    },
+    {
+      "source": "tidak ada",
+      "target": "nothing"
+    },
+    {
+      "source": "memperhatikan",
+      "target": "notice"
+    },
+    {
+      "source": "sekarang",
+      "target": "now"
+    },
+    {
+      "source": "n't.",
+      "target": "n't"
+    },
+    {
+      "source": "jumlah",
+      "target": "number"
+    },
+    {
+      "source": "terjadi",
+      "target": "occur"
+    },
+    {
+      "source": "dari",
+      "target": "of"
+    },
+    {
+      "source": "mati",
+      "target": "off"
+    },
+    {
+      "source": "menawarkan",
+      "target": "offer"
+    },
+    {
+      "source": "kantor",
+      "target": "office"
+    },
+    {
+      "source": "petugas",
+      "target": "officer"
+    },
+    {
+      "source": "resmi",
+      "target": "official"
+    },
+    {
+      "source": "sering",
+      "target": "often"
+    },
+    {
+      "source": "oh",
+      "target": "oh"
+    },
+    {
+      "source": "minyak",
+      "target": "oil"
+    },
+    {
+      "source": "baik",
+      "target": "ok"
+    },
+    {
+      "source": "tua",
+      "target": "old"
+    },
+    {
+      "source": "di",
+      "target": "on"
+    },
+    {
+      "source": "sekali",
+      "target": "once"
+    },
+    {
+      "source": "satu",
+      "target": "one"
+    },
+    {
+      "source": "hanya",
+      "target": "only"
+    },
+    {
+      "source": "ke",
+      "target": "onto"
+    },
+    {
+      "source": "Buka",
+      "target": "open"
+    },
+    {
+      "source": "operasi",
+      "target": "operation"
+    },
+    {
+      "source": "kesempatan",
+      "target": "opportunity"
+    },
+    {
+      "source": "pilihan",
+      "target": "option"
+    },
+    {
+      "source": "atau",
+      "target": "or"
+    },
+    {
+      "source": "memesan",
+      "target": "order"
+    },
+    {
+      "source": "organisasi",
+      "target": "organization"
+    },
+    {
+      "source": "lain",
+      "target": "other"
+    },
+    {
+      "source": "Lainnya",
+      "target": "others"
+    },
+    {
+      "source": "kami",
+      "target": "our"
+    },
+    {
+      "source": "di luar",
+      "target": "out"
+    },
+    {
+      "source": "di luar",
+      "target": "outside"
+    },
+    {
+      "source": "lebih",
+      "target": "over"
+    },
+    {
+      "source": "sendiri",
+      "target": "own"
+    },
+    {
+      "source": "pemilik",
+      "target": "owner"
+    },
+    {
+      "source": "halaman",
+      "target": "page"
+    },
+    {
+      "source": "rasa sakit",
+      "target": "pain"
+    },
+    {
+      "source": "lukisan",
+      "target": "painting"
+    },
+    {
+      "source": "kertas",
+      "target": "paper"
+    },
+    {
+      "source": "induk",
+      "target": "parent"
+    },
+    {
+      "source": "bagian",
+      "target": "part"
+    },
+    {
+      "source": "peserta",
+      "target": "participant"
+    },
+    {
+      "source": "tertentu",
+      "target": "particular"
+    },
+    {
+      "source": "terutama",
+      "target": "particularly"
+    },
+    {
+      "source": "pasangan",
+      "target": "partner"
+    },
+    {
+      "source": "pesta",
+      "target": "party"
+    },
+    {
+      "source": "lulus",
+      "target": "pass"
+    },
+    {
+      "source": "lalu",
+      "target": "past"
+    },
+    {
+      "source": "sabar",
+      "target": "patient"
+    },
+    {
+      "source": "pola",
+      "target": "pattern"
+    },
+    {
+      "source": "membayar",
+      "target": "pay"
+    },
+    {
+      "source": "perdamaian",
+      "target": "peace"
+    },
+    {
+      "source": "orang-orang",
+      "target": "people"
+    },
+    {
+      "source": "per",
+      "target": "per"
+    },
+    {
+      "source": "melakukan",
+      "target": "perform"
+    },
+    {
+      "source": "Performa.",
+      "target": "performance"
+    },
+    {
+      "source": "mungkin",
+      "target": "perhaps"
+    },
+    {
+      "source": "Titik",
+      "target": "period"
+    },
+    {
+      "source": "orang",
+      "target": "person"
+    },
+    {
+      "source": "pribadi",
+      "target": "personal"
+    },
+    {
+      "source": "telepon",
+      "target": "phone"
+    },
+    {
+      "source": "fisik",
+      "target": "physical"
+    },
+    {
+      "source": "memilih",
+      "target": "pick"
+    },
+    {
+      "source": "gambar",
+      "target": "picture"
+    },
+    {
+      "source": "bagian",
+      "target": "piece"
+    },
+    {
+      "source": "tempat",
+      "target": "place"
+    },
+    {
+      "source": "rencana",
+      "target": "plan"
+    },
+    {
+      "source": "menanam",
+      "target": "plant"
+    },
+    {
+      "source": "bermain",
+      "target": "play"
+    },
+    {
+      "source": "pemain",
+      "target": "player"
+    },
+    {
+      "source": "SORE",
+      "target": "PM"
+    },
+    {
+      "source": "titik",
+      "target": "point"
+    },
+    {
+      "source": "polisi",
+      "target": "police"
+    },
+    {
+      "source": "kebijakan",
+      "target": "policy"
+    },
+    {
+      "source": "politik",
+      "target": "political"
+    },
+    {
+      "source": "politik",
+      "target": "politics"
+    },
+    {
+      "source": "miskin",
+      "target": "poor"
+    },
+    {
+      "source": "populer",
+      "target": "popular"
+    },
+    {
+      "source": "populasi",
+      "target": "population"
+    },
+    {
+      "source": "posisi",
+      "target": "position"
+    },
+    {
+      "source": "positif",
+      "target": "positive"
+    },
+    {
+      "source": "bisa jadi",
+      "target": "possible"
+    },
+    {
+      "source": "kekuasaan",
+      "target": "power"
+    },
+    {
+      "source": "praktek",
+      "target": "practice"
+    },
+    {
+      "source": "mempersiapkan",
+      "target": "prepare"
+    },
+    {
+      "source": "menyajikan",
+      "target": "present"
+    },
+    {
+      "source": "Presiden",
+      "target": "president"
+    },
+    {
+      "source": "tekanan",
+      "target": "pressure"
+    },
+    {
+      "source": "cantik",
+      "target": "pretty"
+    },
+    {
+      "source": "mencegah",
+      "target": "prevent"
+    },
+    {
+      "source": "harga",
+      "target": "price"
+    },
+    {
+      "source": "pribadi",
+      "target": "private"
+    },
+    {
+      "source": "mungkin",
+      "target": "probably"
+    },
+    {
+      "source": "masalah",
+      "target": "problem"
+    },
+    {
+      "source": "proses",
+      "target": "process"
+    },
+    {
+      "source": "menghasilkan",
+      "target": "produce"
+    },
+    {
+      "source": "produk",
+      "target": "product"
+    },
+    {
+      "source": "produksi",
+      "target": "production"
+    },
+    {
+      "source": "profesional",
+      "target": "professional"
+    },
+    {
+      "source": "profesor",
+      "target": "professor"
+    },
+    {
+      "source": "program",
+      "target": "program"
+    },
+    {
+      "source": "proyek",
+      "target": "project"
+    },
+    {
+      "source": "Properti",
+      "target": "property"
+    },
+    {
+      "source": "melindungi",
+      "target": "protect"
+    },
+    {
+      "source": "membuktikan",
+      "target": "prove"
+    },
+    {
+      "source": "menyediakan",
+      "target": "provide"
+    },
+    {
+      "source": "publik",
+      "target": "public"
+    },
+    {
+      "source": "Tarik",
+      "target": "pull"
+    },
+    {
+      "source": "tujuan",
+      "target": "purpose"
+    },
+    {
+      "source": "Dorong",
+      "target": "push"
+    },
+    {
+      "source": "taruh",
+      "target": "put"
+    },
+    {
+      "source": "kualitas",
+      "target": "quality"
+    },
+    {
+      "source": "pertanyaan",
+      "target": "question"
+    },
+    {
+      "source": "segera",
+      "target": "quickly"
+    },
+    {
+      "source": "cukup",
+      "target": "quite"
+    },
+    {
+      "source": "ras",
+      "target": "race"
+    },
+    {
+      "source": "radio",
+      "target": "radio"
+    },
+    {
+      "source": "menaikkan",
+      "target": "raise"
+    },
+    {
+      "source": "jarak",
+      "target": "range"
+    },
+    {
+      "source": "menilai",
+      "target": "rate"
+    },
+    {
+      "source": "agak",
+      "target": "rather"
+    },
+    {
+      "source": "mencapai",
+      "target": "reach"
+    },
+    {
+      "source": "Baca",
+      "target": "read"
+    },
+    {
+      "source": "siap",
+      "target": "ready"
+    },
+    {
+      "source": "nyata",
+      "target": "real"
+    },
+    {
+      "source": "realitas",
+      "target": "reality"
+    },
+    {
+      "source": "menyadari",
+      "target": "realize"
+    },
+    {
+      "source": "Betulkah",
+      "target": "really"
+    },
+    {
+      "source": "alasan",
+      "target": "reason"
+    },
+    {
+      "source": "menerima",
+      "target": "receive"
+    },
+    {
+      "source": "baru",
+      "target": "recent"
+    },
+    {
+      "source": "baru saja",
+      "target": "recently"
+    },
+    {
+      "source": "mengakui",
+      "target": "recognize"
+    },
+    {
+      "source": "merekam",
+      "target": "record"
+    },
+    {
+      "source": "merah",
+      "target": "red"
+    },
+    {
+      "source": "mengurangi",
+      "target": "reduce"
+    },
+    {
+      "source": "mencerminkan",
+      "target": "reflect"
+    },
+    {
+      "source": "wilayah",
+      "target": "region"
+    },
+    {
+      "source": "berhubungan",
+      "target": "relate"
+    },
+    {
+      "source": "hubungan",
+      "target": "relationship"
+    },
+    {
+      "source": "keagamaan",
+      "target": "religious"
+    },
+    {
+      "source": "tetap",
+      "target": "remain"
+    },
+    {
+      "source": "ingat",
+      "target": "remember"
+    },
+    {
+      "source": "menghapus",
+      "target": "remove"
+    },
+    {
+      "source": "melaporkan",
+      "target": "report"
+    },
+    {
+      "source": "mewakili",
+      "target": "represent"
+    },
+    {
+      "source": "Republik",
+      "target": "Republican"
+    },
+    {
+      "source": "memerlukan",
+      "target": "require"
+    },
+    {
+      "source": "penelitian",
+      "target": "research"
+    },
+    {
+      "source": "sumber",
+      "target": "resource"
+    },
+    {
+      "source": "menanggapi",
+      "target": "respond"
+    },
+    {
+      "source": "tanggapan",
+      "target": "response"
+    },
+    {
+      "source": "tanggung jawab",
+      "target": "responsibility"
+    },
+    {
+      "source": "beristirahat",
+      "target": "rest"
+    },
+    {
+      "source": "hasil",
+      "target": "result"
+    },
+    {
+      "source": "kembali",
+      "target": "return"
+    },
+    {
+      "source": "mengungkapkan",
+      "target": "reveal"
+    },
+    {
+      "source": "kaya",
+      "target": "rich"
+    },
+    {
+      "source": "Baik",
+      "target": "right"
+    },
+    {
+      "source": "Bangkit",
+      "target": "rise"
+    },
+    {
+      "source": "risiko",
+      "target": "risk"
+    },
+    {
+      "source": "jalan",
+      "target": "road"
+    },
+    {
+      "source": "batu",
+      "target": "rock"
+    },
+    {
+      "source": "wewenang",
+      "target": "role"
+    },
+    {
+      "source": "kamar",
+      "target": "room"
+    },
+    {
+      "source": "aturan",
+      "target": "rule"
+    },
+    {
+      "source": "Lari",
+      "target": "run"
+    },
+    {
+      "source": "aman",
+      "target": "safe"
+    },
+    {
+      "source": "sama",
+      "target": "same"
+    },
+    {
+      "source": "menyimpan",
+      "target": "save"
+    },
+    {
+      "source": "mengatakan",
+      "target": "say"
+    },
+    {
+      "source": "tempat kejadian",
+      "target": "scene"
+    },
+    {
+      "source": "sekolah",
+      "target": "school"
+    },
+    {
+      "source": "ilmu",
+      "target": "science"
+    },
+    {
+      "source": "ilmuwan",
+      "target": "scientist"
+    },
+    {
+      "source": "skor",
+      "target": "score"
+    },
+    {
+      "source": "laut",
+      "target": "sea"
+    },
+    {
+      "source": "musim",
+      "target": "season"
+    },
+    {
+      "source": "kursi",
+      "target": "seat"
+    },
+    {
+      "source": "kedua",
+      "target": "second"
+    },
+    {
+      "source": "bagian",
+      "target": "section"
+    },
+    {
+      "source": "keamanan",
+      "target": "security"
+    },
+    {
+      "source": "Lihat",
+      "target": "see"
+    },
+    {
+      "source": "mencari",
+      "target": "seek"
+    },
+    {
+      "source": "terlihat",
+      "target": "seem"
+    },
+    {
+      "source": "menjual",
+      "target": "sell"
+    },
+    {
+      "source": "Kirim",
+      "target": "send"
+    },
+    {
+      "source": "senior",
+      "target": "senior"
+    },
+    {
+      "source": "merasakan",
+      "target": "sense"
+    },
+    {
+      "source": "seri",
+      "target": "series"
+    },
+    {
+      "source": "serius",
+      "target": "serious"
+    },
+    {
+      "source": "Menyajikan",
+      "target": "serve"
+    },
+    {
+      "source": "layanan",
+      "target": "service"
+    },
+    {
+      "source": "set",
+      "target": "set"
+    },
+    {
+      "source": "tujuh.",
+      "target": "seven"
+    },
+    {
+      "source": "beberapa",
+      "target": "several"
+    },
+    {
+      "source": "seks",
+      "target": "sex"
+    },
+    {
+      "source": "Seksual.",
+      "target": "sexual"
+    },
+    {
+      "source": "menggoyang",
+      "target": "shake"
+    },
+    {
+      "source": "Bagikan",
+      "target": "share"
+    },
+    {
+      "source": "dia",
+      "target": "she"
+    },
+    {
+      "source": "menembak",
+      "target": "shoot"
+    },
+    {
+      "source": "pendek",
+      "target": "short"
+    },
+    {
+      "source": "tembakan",
+      "target": "shot"
+    },
+    {
+      "source": "Sebaiknya",
+      "target": "should"
+    },
+    {
+      "source": "bahu",
+      "target": "shoulder"
+    },
+    {
+      "source": "menunjukkan",
+      "target": "show"
+    },
+    {
+      "source": "sisi",
+      "target": "side"
+    },
+    {
+      "source": "tanda",
+      "target": "sign"
+    },
+    {
+      "source": "penting",
+      "target": "significant"
+    },
+    {
+      "source": "serupa",
+      "target": "similar"
+    },
+    {
+      "source": "sederhana",
+      "target": "simple"
+    },
+    {
+      "source": "secara sederhana",
+      "target": "simply"
+    },
+    {
+      "source": "sejak",
+      "target": "since"
+    },
+    {
+      "source": "bernyanyi",
+      "target": "sing"
+    },
+    {
+      "source": "tunggal",
+      "target": "single"
+    },
+    {
+      "source": "saudara",
+      "target": "sister"
+    },
+    {
+      "source": "duduk",
+      "target": "sit"
+    },
+    {
+      "source": "Situs.",
+      "target": "site"
+    },
+    {
+      "source": "situasi",
+      "target": "situation"
+    },
+    {
+      "source": "enam",
+      "target": "six"
+    },
+    {
+      "source": "ukuran",
+      "target": "size"
+    },
+    {
+      "source": "ketrampilan",
+      "target": "skill"
+    },
+    {
+      "source": "kulit",
+      "target": "skin"
+    },
+    {
+      "source": "kecil",
+      "target": "small"
+    },
+    {
+      "source": "tersenyum",
+      "target": "smile"
+    },
+    {
+      "source": "begitu",
+      "target": "so"
+    },
+    {
+      "source": "sosial",
+      "target": "social"
+    },
+    {
+      "source": "masyarakat",
+      "target": "society"
+    },
+    {
+      "source": "tentara",
+      "target": "soldier"
+    },
+    {
+      "source": "beberapa",
+      "target": "some"
+    },
+    {
+      "source": "seseorang",
+      "target": "somebody"
+    },
+    {
+      "source": "some one",
+      "target": "someone"
+    },
+    {
+      "source": "sesuatu",
+      "target": "something"
+    },
+    {
+      "source": "terkadang",
+      "target": "sometimes"
+    },
+    {
+      "source": "putra",
+      "target": "son"
+    },
+    {
+      "source": "lagu",
+      "target": "song"
+    },
+    {
+      "source": "segera",
+      "target": "soon"
+    },
+    {
+      "source": "menyortir",
+      "target": "sort"
+    },
+    {
+      "source": "suara",
+      "target": "sound"
+    },
+    {
+      "source": "sumber",
+      "target": "source"
+    },
+    {
+      "source": "Selatan",
+      "target": "south"
+    },
+    {
+      "source": "Southern.",
+      "target": "southern"
+    },
+    {
+      "source": "ruang",
+      "target": "space"
+    },
+    {
+      "source": "berbicara",
+      "target": "speak"
+    },
+    {
+      "source": "khusus",
+      "target": "special"
+    },
+    {
+      "source": "spesifik",
+      "target": "specific"
+    },
+    {
+      "source": "pidato",
+      "target": "speech"
+    },
+    {
+      "source": "menghabiskan",
+      "target": "spend"
+    },
+    {
+      "source": "olahraga",
+      "target": "sport"
+    },
+    {
+      "source": "musim semi",
+      "target": "spring"
+    },
+    {
+      "source": "staf",
+      "target": "staff"
+    },
+    {
+      "source": "tahap",
+      "target": "stage"
+    },
+    {
+      "source": "berdiri",
+      "target": "stand"
+    },
+    {
+      "source": "standar",
+      "target": "standard"
+    },
+    {
+      "source": "bintang",
+      "target": "star"
+    },
+    {
+      "source": "Mulailah",
+      "target": "start"
+    },
+    {
+      "source": "negara",
+      "target": "state"
+    },
+    {
+      "source": "pernyataan",
+      "target": "statement"
+    },
+    {
+      "source": "stasiun",
+      "target": "station"
+    },
+    {
+      "source": "tinggal",
+      "target": "stay"
+    },
+    {
+      "source": "langkah",
+      "target": "step"
+    },
+    {
+      "source": "masih",
+      "target": "still"
+    },
+    {
+      "source": "persediaan",
+      "target": "stock"
+    },
+    {
+      "source": "berhenti",
+      "target": "stop"
+    },
+    {
+      "source": "toko",
+      "target": "store"
+    },
+    {
+      "source": "cerita",
+      "target": "story"
+    },
+    {
+      "source": "strategi",
+      "target": "strategy"
+    },
+    {
+      "source": "jalan",
+      "target": "street"
+    },
+    {
+      "source": "kuat",
+      "target": "strong"
+    },
+    {
+      "source": "struktur",
+      "target": "structure"
+    },
+    {
+      "source": "siswa",
+      "target": "student"
+    },
+    {
+      "source": "belajar",
+      "target": "study"
+    },
+    {
+      "source": "barang",
+      "target": "stuff"
+    },
+    {
+      "source": "gaya",
+      "target": "style"
+    },
+    {
+      "source": "subyek",
+      "target": "subject"
+    },
+    {
+      "source": "keberhasilan",
+      "target": "success"
+    },
+    {
+      "source": "berhasil",
+      "target": "successful"
+    },
+    {
+      "source": "seperti itu",
+      "target": "such"
+    },
+    {
+      "source": "mendadak",
+      "target": "suddenly"
+    },
+    {
+      "source": "menderita",
+      "target": "suffer"
+    },
+    {
+      "source": "menyarankan",
+      "target": "suggest"
+    },
+    {
+      "source": "musim panas",
+      "target": "summer"
+    },
+    {
+      "source": "dukung",
+      "target": "support"
+    },
+    {
+      "source": "Tentu",
+      "target": "sure"
+    },
+    {
+      "source": "permukaan",
+      "target": "surface"
+    },
+    {
+      "source": "sistem",
+      "target": "system"
+    },
+    {
+      "source": "meja",
+      "target": "table"
+    },
+    {
+      "source": "mengambil",
+      "target": "take"
+    },
+    {
+      "source": "berbicara",
+      "target": "talk"
+    },
+    {
+      "source": "tugas",
+      "target": "task"
+    },
+    {
+      "source": "pajak",
+      "target": "tax"
+    },
+    {
+      "source": "mengajar",
+      "target": "teach"
+    },
+    {
+      "source": "guru",
+      "target": "teacher"
+    },
+    {
+      "source": "tim",
+      "target": "team"
+    },
+    {
+      "source": "teknologi",
+      "target": "technology"
+    },
+    {
+      "source": "televisi",
+      "target": "television"
+    },
+    {
+      "source": "menceritakan",
+      "target": "tell"
+    },
+    {
+      "source": "sepuluh",
+      "target": "ten"
+    },
+    {
+      "source": "cenderung",
+      "target": "tend"
+    },
+    {
+      "source": "istilah",
+      "target": "term"
+    },
+    {
+      "source": "uji",
+      "target": "test"
+    },
+    {
+      "source": "dari",
+      "target": "than"
+    },
+    {
+      "source": "terima kasih",
+      "target": "thank"
+    },
+    {
+      "source": "bahwa",
+      "target": "that"
+    },
+    {
+      "source": "itu",
+      "target": "the"
+    },
+    {
+      "source": "mereka",
+      "target": "their"
+    },
+    {
+      "source": "mereka",
+      "target": "them"
+    },
+    {
+      "source": "diri",
+      "target": "themselves"
+    },
+    {
+      "source": "kemudian",
+      "target": "then"
+    },
+    {
+      "source": "teori",
+      "target": "theory"
+    },
+    {
+      "source": "sana",
+      "target": "there"
+    },
+    {
+      "source": "ini",
+      "target": "these"
+    },
+    {
+      "source": "mereka",
+      "target": "they"
+    },
+    {
+      "source": "benda",
+      "target": "thing"
+    },
+    {
+      "source": "berpikir",
+      "target": "think"
+    },
+    {
+      "source": "ketiga",
+      "target": "third"
+    },
+    {
+      "source": "ini",
+      "target": "this"
+    },
+    {
+      "source": "untuk mereka",
+      "target": "those"
+    },
+    {
+      "source": "meskipun",
+      "target": "though"
+    },
+    {
+      "source": "pikir",
+      "target": "thought"
+    },
+    {
+      "source": "Ribu.",
+      "target": "thousand"
+    },
+    {
+      "source": "ancaman",
+      "target": "threat"
+    },
+    {
+      "source": "tiga",
+      "target": "three"
+    },
+    {
+      "source": "melalui",
+      "target": "through"
+    },
+    {
+      "source": "sepanjang",
+      "target": "throughout"
+    },
+    {
+      "source": "melemparkan",
+      "target": "throw"
+    },
+    {
+      "source": "jadi",
+      "target": "thus"
+    },
+    {
+      "source": "waktu",
+      "target": "time"
+    },
+    {
+      "source": "untuk",
+      "target": "to"
+    },
+    {
+      "source": "hari ini",
+      "target": "today"
+    },
+    {
+      "source": "bersama",
+      "target": "together"
+    },
+    {
+      "source": "malam ini",
+      "target": "tonight"
+    },
+    {
+      "source": "terlalu",
+      "target": "too"
+    },
+    {
+      "source": "puncak",
+      "target": "top"
+    },
+    {
+      "source": "total",
+      "target": "total"
+    },
+    {
+      "source": "sulit",
+      "target": "tough"
+    },
+    {
+      "source": "terhadap",
+      "target": "toward"
+    },
+    {
+      "source": "kota",
+      "target": "town"
+    },
+    {
+      "source": "perdagangan",
+      "target": "trade"
+    },
+    {
+      "source": "tradisional",
+      "target": "traditional"
+    },
+    {
+      "source": "latihan",
+      "target": "training"
+    },
+    {
+      "source": "perjalanan",
+      "target": "travel"
+    },
+    {
+      "source": "memperlakukan",
+      "target": "treat"
+    },
+    {
+      "source": "pengobatan",
+      "target": "treatment"
+    },
+    {
+      "source": "pohon",
+      "target": "tree"
+    },
+    {
+      "source": "percobaan",
+      "target": "trial"
+    },
+    {
+      "source": "perjalanan",
+      "target": "trip"
+    },
+    {
+      "source": "Masalah",
+      "target": "trouble"
+    },
+    {
+      "source": "benar",
+      "target": "true"
+    },
+    {
+      "source": "kebenaran",
+      "target": "truth"
+    },
+    {
+      "source": "mencoba",
+      "target": "try"
+    },
+    {
+      "source": "belok",
+      "target": "turn"
+    },
+    {
+      "source": "televisi",
+      "target": "TV"
+    },
+    {
+      "source": "dua",
+      "target": "two"
+    },
+    {
+      "source": "Tipe",
+      "target": "type"
+    },
+    {
+      "source": "dibawah",
+      "target": "under"
+    },
+    {
+      "source": "memahami",
+      "target": "understand"
+    },
+    {
+      "source": "satuan",
+      "target": "unit"
+    },
+    {
+      "source": "sampai",
+      "target": "until"
+    },
+    {
+      "source": "naik",
+      "target": "up"
+    },
+    {
+      "source": "atas",
+      "target": "upon"
+    },
+    {
+      "source": "kami",
+      "target": "us"
+    },
+    {
+      "source": "menggunakan",
+      "target": "use"
+    },
+    {
+      "source": "biasanya",
+      "target": "usually"
+    },
+    {
+      "source": "nilai",
+      "target": "value"
+    },
+    {
+      "source": "berbagai",
+      "target": "various"
+    },
+    {
+      "source": "sangat",
+      "target": "very"
+    },
+    {
+      "source": "korban",
+      "target": "victim"
+    },
+    {
+      "source": "melihat",
+      "target": "view"
+    },
+    {
+      "source": "kekerasan",
+      "target": "violence"
+    },
+    {
+      "source": "mengunjungi",
+      "target": "visit"
+    },
+    {
+      "source": "suara",
+      "target": "voice"
+    },
+    {
+      "source": "Pilih",
+      "target": "vote"
+    },
+    {
+      "source": "Tunggu",
+      "target": "wait"
+    },
+    {
+      "source": "berjalan",
+      "target": "walk"
+    },
+    {
+      "source": "dinding",
+      "target": "wall"
+    },
+    {
+      "source": "ingin",
+      "target": "want"
+    },
+    {
+      "source": "perang",
+      "target": "war"
+    },
+    {
+      "source": "menonton",
+      "target": "watch"
+    },
+    {
+      "source": "air",
+      "target": "water"
+    },
+    {
+      "source": "cara",
+      "target": "way"
+    },
+    {
+      "source": "kita",
+      "target": "we"
+    },
+    {
+      "source": "senjata",
+      "target": "weapon"
+    },
+    {
+      "source": "memakai",
+      "target": "wear"
+    },
+    {
+      "source": "minggu",
+      "target": "week"
+    },
+    {
+      "source": "bobot",
+      "target": "weight"
+    },
+    {
+      "source": "baik",
+      "target": "well"
+    },
+    {
+      "source": "Barat",
+      "target": "west"
+    },
+    {
+      "source": "barat",
+      "target": "western"
+    },
+    {
+      "source": "apa",
+      "target": "what"
+    },
+    {
+      "source": "Masa bodo",
+      "target": "whatever"
+    },
+    {
+      "source": "kapan",
+      "target": "when"
+    },
+    {
+      "source": "dimana",
+      "target": "where"
+    },
+    {
+      "source": "apakah",
+      "target": "whether"
+    },
+    {
+      "source": "yang",
+      "target": "which"
+    },
+    {
+      "source": "sementara",
+      "target": "while"
+    },
+    {
+      "source": "putih",
+      "target": "white"
+    },
+    {
+      "source": "siapa",
+      "target": "who"
+    },
+    {
+      "source": "seluruh",
+      "target": "whole"
+    },
+    {
+      "source": "siapa",
+      "target": "whom"
+    },
+    {
+      "source": "yang",
+      "target": "whose"
+    },
+    {
+      "source": "Mengapa",
+      "target": "why"
+    },
+    {
+      "source": "lebar",
+      "target": "wide"
+    },
+    {
+      "source": "istri",
+      "target": "wife"
+    },
+    {
+      "source": "akan",
+      "target": "will"
+    },
+    {
+      "source": "menang",
+      "target": "win"
+    },
+    {
+      "source": "angin",
+      "target": "wind"
+    },
+    {
+      "source": "jendela",
+      "target": "window"
+    },
+    {
+      "source": "ingin",
+      "target": "wish"
+    },
+    {
+      "source": "dengan",
+      "target": "with"
+    },
+    {
+      "source": "dalam",
+      "target": "within"
+    },
+    {
+      "source": "tanpa",
+      "target": "without"
+    },
+    {
+      "source": "wanita",
+      "target": "woman"
+    },
+    {
+      "source": "bertanya-tanya",
+      "target": "wonder"
+    },
+    {
+      "source": "kata",
+      "target": "word"
+    },
+    {
+      "source": "kerja",
+      "target": "work"
+    },
+    {
+      "source": "pekerja",
+      "target": "worker"
+    },
+    {
+      "source": "dunia",
+      "target": "world"
+    },
+    {
+      "source": "khawatir",
+      "target": "worry"
+    },
+    {
+      "source": "akan",
+      "target": "would"
+    },
+    {
+      "source": "menulis",
+      "target": "write"
+    },
+    {
+      "source": "penulis",
+      "target": "writer"
+    },
+    {
+      "source": "salah",
+      "target": "wrong"
+    },
+    {
+      "source": "halaman",
+      "target": "yard"
+    },
+    {
+      "source": "ya",
+      "target": "yeah"
+    },
+    {
+      "source": "tahun",
+      "target": "year"
+    },
+    {
+      "source": "Iya",
+      "target": "yes"
+    },
+    {
+      "source": "namun",
+      "target": "yet"
+    },
+    {
+      "source": "kamu",
+      "target": "you"
+    },
+    {
+      "source": "muda",
+      "target": "young"
+    },
+    {
+      "source": "anda",
+      "target": "your"
+    },
+    {
+      "source": "dirimu sendiri",
+      "target": "yourself"
+    }
+  ]
+}
