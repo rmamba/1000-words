@@ -1,0 +1,43 @@
+{
+  "$id": "https://example.com/person.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "WebViewer UX configuration",
+  "type": "object",
+  "required": [
+    "data",
+    "description"
+  ],
+  "properties": {
+    "data": {
+      "description": "List of available line styles to the user.",
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/data"
+      }
+    },
+    "description": {
+      "type": "string",
+      "description": "Description..."
+    }
+  },
+  "$defs": {
+    "data": {
+      "additionalProperties": false,
+      "type": "object",
+      "required": [
+        "source",
+        "target"
+      ],
+      "properties": {
+        "source": {
+          "type": "string",
+          "description": "Qestion"
+        },
+        "target": {
+          "type": "string",
+          "description": "Answer"
+        }
+      }
+    }
+  }
+}

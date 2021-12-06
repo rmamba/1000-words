@@ -1,0 +1,4005 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rmamba/1000-words/master/template.schema.json",
+  "description": "Learn languages fast by mastering 1000 of most common words",
+  "data": [{
+      "source": "a",
+      "target": "a"
+    },
+    {
+      "source": "ability",
+      "target": "ability"
+    },
+    {
+      "source": "able",
+      "target": "able"
+    },
+    {
+      "source": "about",
+      "target": "about"
+    },
+    {
+      "source": "above",
+      "target": "above"
+    },
+    {
+      "source": "accept",
+      "target": "accept"
+    },
+    {
+      "source": "according",
+      "target": "according"
+    },
+    {
+      "source": "account",
+      "target": "account"
+    },
+    {
+      "source": "across",
+      "target": "across"
+    },
+    {
+      "source": "act",
+      "target": "act"
+    },
+    {
+      "source": "action",
+      "target": "action"
+    },
+    {
+      "source": "activity",
+      "target": "activity"
+    },
+    {
+      "source": "actually",
+      "target": "actually"
+    },
+    {
+      "source": "add",
+      "target": "add"
+    },
+    {
+      "source": "address",
+      "target": "address"
+    },
+    {
+      "source": "administration",
+      "target": "administration"
+    },
+    {
+      "source": "admit",
+      "target": "admit"
+    },
+    {
+      "source": "adult",
+      "target": "adult"
+    },
+    {
+      "source": "affect",
+      "target": "affect"
+    },
+    {
+      "source": "after",
+      "target": "after"
+    },
+    {
+      "source": "again",
+      "target": "again"
+    },
+    {
+      "source": "against",
+      "target": "against"
+    },
+    {
+      "source": "age",
+      "target": "age"
+    },
+    {
+      "source": "agency",
+      "target": "agency"
+    },
+    {
+      "source": "agent",
+      "target": "agent"
+    },
+    {
+      "source": "ago",
+      "target": "ago"
+    },
+    {
+      "source": "agree",
+      "target": "agree"
+    },
+    {
+      "source": "agreement",
+      "target": "agreement"
+    },
+    {
+      "source": "ahead",
+      "target": "ahead"
+    },
+    {
+      "source": "air",
+      "target": "air"
+    },
+    {
+      "source": "all",
+      "target": "all"
+    },
+    {
+      "source": "allow",
+      "target": "allow"
+    },
+    {
+      "source": "almost",
+      "target": "almost"
+    },
+    {
+      "source": "alone",
+      "target": "alone"
+    },
+    {
+      "source": "along",
+      "target": "along"
+    },
+    {
+      "source": "already",
+      "target": "already"
+    },
+    {
+      "source": "also",
+      "target": "also"
+    },
+    {
+      "source": "although",
+      "target": "although"
+    },
+    {
+      "source": "always",
+      "target": "always"
+    },
+    {
+      "source": "American",
+      "target": "American"
+    },
+    {
+      "source": "among",
+      "target": "among"
+    },
+    {
+      "source": "amount",
+      "target": "amount"
+    },
+    {
+      "source": "analysis",
+      "target": "analysis"
+    },
+    {
+      "source": "and",
+      "target": "and"
+    },
+    {
+      "source": "animal",
+      "target": "animal"
+    },
+    {
+      "source": "another",
+      "target": "another"
+    },
+    {
+      "source": "answer",
+      "target": "answer"
+    },
+    {
+      "source": "any",
+      "target": "any"
+    },
+    {
+      "source": "anyone",
+      "target": "anyone"
+    },
+    {
+      "source": "anything",
+      "target": "anything"
+    },
+    {
+      "source": "appear",
+      "target": "appear"
+    },
+    {
+      "source": "apply",
+      "target": "apply"
+    },
+    {
+      "source": "approach",
+      "target": "approach"
+    },
+    {
+      "source": "area",
+      "target": "area"
+    },
+    {
+      "source": "argue",
+      "target": "argue"
+    },
+    {
+      "source": "arm",
+      "target": "arm"
+    },
+    {
+      "source": "around",
+      "target": "around"
+    },
+    {
+      "source": "arrive",
+      "target": "arrive"
+    },
+    {
+      "source": "art",
+      "target": "art"
+    },
+    {
+      "source": "article",
+      "target": "article"
+    },
+    {
+      "source": "artist",
+      "target": "artist"
+    },
+    {
+      "source": "as",
+      "target": "as"
+    },
+    {
+      "source": "ask",
+      "target": "ask"
+    },
+    {
+      "source": "assume",
+      "target": "assume"
+    },
+    {
+      "source": "at",
+      "target": "at"
+    },
+    {
+      "source": "attack",
+      "target": "attack"
+    },
+    {
+      "source": "attention",
+      "target": "attention"
+    },
+    {
+      "source": "attorney",
+      "target": "attorney"
+    },
+    {
+      "source": "audience",
+      "target": "audience"
+    },
+    {
+      "source": "author",
+      "target": "author"
+    },
+    {
+      "source": "authority",
+      "target": "authority"
+    },
+    {
+      "source": "available",
+      "target": "available"
+    },
+    {
+      "source": "avoid",
+      "target": "avoid"
+    },
+    {
+      "source": "away",
+      "target": "away"
+    },
+    {
+      "source": "baby",
+      "target": "baby"
+    },
+    {
+      "source": "back",
+      "target": "back"
+    },
+    {
+      "source": "bad",
+      "target": "bad"
+    },
+    {
+      "source": "bag",
+      "target": "bag"
+    },
+    {
+      "source": "ball",
+      "target": "ball"
+    },
+    {
+      "source": "bank",
+      "target": "bank"
+    },
+    {
+      "source": "bar",
+      "target": "bar"
+    },
+    {
+      "source": "base",
+      "target": "base"
+    },
+    {
+      "source": "be",
+      "target": "be"
+    },
+    {
+      "source": "beat",
+      "target": "beat"
+    },
+    {
+      "source": "beautiful",
+      "target": "beautiful"
+    },
+    {
+      "source": "because",
+      "target": "because"
+    },
+    {
+      "source": "become",
+      "target": "become"
+    },
+    {
+      "source": "bed",
+      "target": "bed"
+    },
+    {
+      "source": "before",
+      "target": "before"
+    },
+    {
+      "source": "begin",
+      "target": "begin"
+    },
+    {
+      "source": "behavior",
+      "target": "behavior"
+    },
+    {
+      "source": "behind",
+      "target": "behind"
+    },
+    {
+      "source": "believe",
+      "target": "believe"
+    },
+    {
+      "source": "benefit",
+      "target": "benefit"
+    },
+    {
+      "source": "best",
+      "target": "best"
+    },
+    {
+      "source": "better",
+      "target": "better"
+    },
+    {
+      "source": "between",
+      "target": "between"
+    },
+    {
+      "source": "beyond",
+      "target": "beyond"
+    },
+    {
+      "source": "big",
+      "target": "big"
+    },
+    {
+      "source": "bill",
+      "target": "bill"
+    },
+    {
+      "source": "billion",
+      "target": "billion"
+    },
+    {
+      "source": "bit",
+      "target": "bit"
+    },
+    {
+      "source": "black",
+      "target": "black"
+    },
+    {
+      "source": "blood",
+      "target": "blood"
+    },
+    {
+      "source": "blue",
+      "target": "blue"
+    },
+    {
+      "source": "board",
+      "target": "board"
+    },
+    {
+      "source": "body",
+      "target": "body"
+    },
+    {
+      "source": "book",
+      "target": "book"
+    },
+    {
+      "source": "born",
+      "target": "born"
+    },
+    {
+      "source": "both",
+      "target": "both"
+    },
+    {
+      "source": "box",
+      "target": "box"
+    },
+    {
+      "source": "boy",
+      "target": "boy"
+    },
+    {
+      "source": "break",
+      "target": "break"
+    },
+    {
+      "source": "bring",
+      "target": "bring"
+    },
+    {
+      "source": "brother",
+      "target": "brother"
+    },
+    {
+      "source": "budget",
+      "target": "budget"
+    },
+    {
+      "source": "build",
+      "target": "build"
+    },
+    {
+      "source": "building",
+      "target": "building"
+    },
+    {
+      "source": "business",
+      "target": "business"
+    },
+    {
+      "source": "but",
+      "target": "but"
+    },
+    {
+      "source": "buy",
+      "target": "buy"
+    },
+    {
+      "source": "by",
+      "target": "by"
+    },
+    {
+      "source": "call",
+      "target": "call"
+    },
+    {
+      "source": "camera",
+      "target": "camera"
+    },
+    {
+      "source": "campaign",
+      "target": "campaign"
+    },
+    {
+      "source": "can",
+      "target": "can"
+    },
+    {
+      "source": "cancer",
+      "target": "cancer"
+    },
+    {
+      "source": "candidate",
+      "target": "candidate"
+    },
+    {
+      "source": "capital",
+      "target": "capital"
+    },
+    {
+      "source": "car",
+      "target": "car"
+    },
+    {
+      "source": "card",
+      "target": "card"
+    },
+    {
+      "source": "care",
+      "target": "care"
+    },
+    {
+      "source": "career",
+      "target": "career"
+    },
+    {
+      "source": "carry",
+      "target": "carry"
+    },
+    {
+      "source": "case",
+      "target": "case"
+    },
+    {
+      "source": "catch",
+      "target": "catch"
+    },
+    {
+      "source": "cause",
+      "target": "cause"
+    },
+    {
+      "source": "cell",
+      "target": "cell"
+    },
+    {
+      "source": "center",
+      "target": "center"
+    },
+    {
+      "source": "central",
+      "target": "central"
+    },
+    {
+      "source": "century",
+      "target": "century"
+    },
+    {
+      "source": "certain",
+      "target": "certain"
+    },
+    {
+      "source": "certainly",
+      "target": "certainly"
+    },
+    {
+      "source": "chair",
+      "target": "chair"
+    },
+    {
+      "source": "challenge",
+      "target": "challenge"
+    },
+    {
+      "source": "chance",
+      "target": "chance"
+    },
+    {
+      "source": "change",
+      "target": "change"
+    },
+    {
+      "source": "character",
+      "target": "character"
+    },
+    {
+      "source": "charge",
+      "target": "charge"
+    },
+    {
+      "source": "check",
+      "target": "check"
+    },
+    {
+      "source": "child",
+      "target": "child"
+    },
+    {
+      "source": "choice",
+      "target": "choice"
+    },
+    {
+      "source": "choose",
+      "target": "choose"
+    },
+    {
+      "source": "church",
+      "target": "church"
+    },
+    {
+      "source": "citizen",
+      "target": "citizen"
+    },
+    {
+      "source": "city",
+      "target": "city"
+    },
+    {
+      "source": "civil",
+      "target": "civil"
+    },
+    {
+      "source": "claim",
+      "target": "claim"
+    },
+    {
+      "source": "class",
+      "target": "class"
+    },
+    {
+      "source": "clear",
+      "target": "clear"
+    },
+    {
+      "source": "clearly",
+      "target": "clearly"
+    },
+    {
+      "source": "close",
+      "target": "close"
+    },
+    {
+      "source": "coach",
+      "target": "coach"
+    },
+    {
+      "source": "cold",
+      "target": "cold"
+    },
+    {
+      "source": "collection",
+      "target": "collection"
+    },
+    {
+      "source": "college",
+      "target": "college"
+    },
+    {
+      "source": "color",
+      "target": "color"
+    },
+    {
+      "source": "come",
+      "target": "come"
+    },
+    {
+      "source": "commercial",
+      "target": "commercial"
+    },
+    {
+      "source": "common",
+      "target": "common"
+    },
+    {
+      "source": "community",
+      "target": "community"
+    },
+    {
+      "source": "company",
+      "target": "company"
+    },
+    {
+      "source": "compare",
+      "target": "compare"
+    },
+    {
+      "source": "computer",
+      "target": "computer"
+    },
+    {
+      "source": "concern",
+      "target": "concern"
+    },
+    {
+      "source": "condition",
+      "target": "condition"
+    },
+    {
+      "source": "conference",
+      "target": "conference"
+    },
+    {
+      "source": "Congress",
+      "target": "Congress"
+    },
+    {
+      "source": "consider",
+      "target": "consider"
+    },
+    {
+      "source": "consumer",
+      "target": "consumer"
+    },
+    {
+      "source": "contain",
+      "target": "contain"
+    },
+    {
+      "source": "continue",
+      "target": "continue"
+    },
+    {
+      "source": "control",
+      "target": "control"
+    },
+    {
+      "source": "cost",
+      "target": "cost"
+    },
+    {
+      "source": "could",
+      "target": "could"
+    },
+    {
+      "source": "country",
+      "target": "country"
+    },
+    {
+      "source": "couple",
+      "target": "couple"
+    },
+    {
+      "source": "course",
+      "target": "course"
+    },
+    {
+      "source": "court",
+      "target": "court"
+    },
+    {
+      "source": "cover",
+      "target": "cover"
+    },
+    {
+      "source": "create",
+      "target": "create"
+    },
+    {
+      "source": "crime",
+      "target": "crime"
+    },
+    {
+      "source": "cultural",
+      "target": "cultural"
+    },
+    {
+      "source": "culture",
+      "target": "culture"
+    },
+    {
+      "source": "cup",
+      "target": "cup"
+    },
+    {
+      "source": "current",
+      "target": "current"
+    },
+    {
+      "source": "customer",
+      "target": "customer"
+    },
+    {
+      "source": "cut",
+      "target": "cut"
+    },
+    {
+      "source": "dark",
+      "target": "dark"
+    },
+    {
+      "source": "data",
+      "target": "data"
+    },
+    {
+      "source": "daughter",
+      "target": "daughter"
+    },
+    {
+      "source": "day",
+      "target": "day"
+    },
+    {
+      "source": "dead",
+      "target": "dead"
+    },
+    {
+      "source": "deal",
+      "target": "deal"
+    },
+    {
+      "source": "death",
+      "target": "death"
+    },
+    {
+      "source": "debate",
+      "target": "debate"
+    },
+    {
+      "source": "decade",
+      "target": "decade"
+    },
+    {
+      "source": "decide",
+      "target": "decide"
+    },
+    {
+      "source": "decision",
+      "target": "decision"
+    },
+    {
+      "source": "deep",
+      "target": "deep"
+    },
+    {
+      "source": "defense",
+      "target": "defense"
+    },
+    {
+      "source": "degree",
+      "target": "degree"
+    },
+    {
+      "source": "Democrat",
+      "target": "Democrat"
+    },
+    {
+      "source": "democratic",
+      "target": "democratic"
+    },
+    {
+      "source": "describe",
+      "target": "describe"
+    },
+    {
+      "source": "design",
+      "target": "design"
+    },
+    {
+      "source": "despite",
+      "target": "despite"
+    },
+    {
+      "source": "detail",
+      "target": "detail"
+    },
+    {
+      "source": "determine",
+      "target": "determine"
+    },
+    {
+      "source": "develop",
+      "target": "develop"
+    },
+    {
+      "source": "development",
+      "target": "development"
+    },
+    {
+      "source": "die",
+      "target": "die"
+    },
+    {
+      "source": "difference",
+      "target": "difference"
+    },
+    {
+      "source": "different",
+      "target": "different"
+    },
+    {
+      "source": "difficult",
+      "target": "difficult"
+    },
+    {
+      "source": "dinner",
+      "target": "dinner"
+    },
+    {
+      "source": "direction",
+      "target": "direction"
+    },
+    {
+      "source": "director",
+      "target": "director"
+    },
+    {
+      "source": "discover",
+      "target": "discover"
+    },
+    {
+      "source": "discuss",
+      "target": "discuss"
+    },
+    {
+      "source": "discussion",
+      "target": "discussion"
+    },
+    {
+      "source": "disease",
+      "target": "disease"
+    },
+    {
+      "source": "do",
+      "target": "do"
+    },
+    {
+      "source": "doctor",
+      "target": "doctor"
+    },
+    {
+      "source": "dog",
+      "target": "dog"
+    },
+    {
+      "source": "door",
+      "target": "door"
+    },
+    {
+      "source": "down",
+      "target": "down"
+    },
+    {
+      "source": "draw",
+      "target": "draw"
+    },
+    {
+      "source": "dream",
+      "target": "dream"
+    },
+    {
+      "source": "drive",
+      "target": "drive"
+    },
+    {
+      "source": "drop",
+      "target": "drop"
+    },
+    {
+      "source": "drug",
+      "target": "drug"
+    },
+    {
+      "source": "during",
+      "target": "during"
+    },
+    {
+      "source": "each",
+      "target": "each"
+    },
+    {
+      "source": "early",
+      "target": "early"
+    },
+    {
+      "source": "east",
+      "target": "east"
+    },
+    {
+      "source": "easy",
+      "target": "easy"
+    },
+    {
+      "source": "eat",
+      "target": "eat"
+    },
+    {
+      "source": "economic",
+      "target": "economic"
+    },
+    {
+      "source": "economy",
+      "target": "economy"
+    },
+    {
+      "source": "edge",
+      "target": "edge"
+    },
+    {
+      "source": "education",
+      "target": "education"
+    },
+    {
+      "source": "effect",
+      "target": "effect"
+    },
+    {
+      "source": "effort",
+      "target": "effort"
+    },
+    {
+      "source": "eight",
+      "target": "eight"
+    },
+    {
+      "source": "either",
+      "target": "either"
+    },
+    {
+      "source": "election",
+      "target": "election"
+    },
+    {
+      "source": "else",
+      "target": "else"
+    },
+    {
+      "source": "employee",
+      "target": "employee"
+    },
+    {
+      "source": "end",
+      "target": "end"
+    },
+    {
+      "source": "energy",
+      "target": "energy"
+    },
+    {
+      "source": "enjoy",
+      "target": "enjoy"
+    },
+    {
+      "source": "enough",
+      "target": "enough"
+    },
+    {
+      "source": "enter",
+      "target": "enter"
+    },
+    {
+      "source": "entire",
+      "target": "entire"
+    },
+    {
+      "source": "environment",
+      "target": "environment"
+    },
+    {
+      "source": "environmental",
+      "target": "environmental"
+    },
+    {
+      "source": "especially",
+      "target": "especially"
+    },
+    {
+      "source": "establish",
+      "target": "establish"
+    },
+    {
+      "source": "even",
+      "target": "even"
+    },
+    {
+      "source": "evening",
+      "target": "evening"
+    },
+    {
+      "source": "event",
+      "target": "event"
+    },
+    {
+      "source": "ever",
+      "target": "ever"
+    },
+    {
+      "source": "every",
+      "target": "every"
+    },
+    {
+      "source": "everybody",
+      "target": "everybody"
+    },
+    {
+      "source": "everyone",
+      "target": "everyone"
+    },
+    {
+      "source": "everything",
+      "target": "everything"
+    },
+    {
+      "source": "evidence",
+      "target": "evidence"
+    },
+    {
+      "source": "exactly",
+      "target": "exactly"
+    },
+    {
+      "source": "example",
+      "target": "example"
+    },
+    {
+      "source": "executive",
+      "target": "executive"
+    },
+    {
+      "source": "exist",
+      "target": "exist"
+    },
+    {
+      "source": "expect",
+      "target": "expect"
+    },
+    {
+      "source": "experience",
+      "target": "experience"
+    },
+    {
+      "source": "expert",
+      "target": "expert"
+    },
+    {
+      "source": "explain",
+      "target": "explain"
+    },
+    {
+      "source": "eye",
+      "target": "eye"
+    },
+    {
+      "source": "face",
+      "target": "face"
+    },
+    {
+      "source": "fact",
+      "target": "fact"
+    },
+    {
+      "source": "factor",
+      "target": "factor"
+    },
+    {
+      "source": "fail",
+      "target": "fail"
+    },
+    {
+      "source": "fall",
+      "target": "fall"
+    },
+    {
+      "source": "family",
+      "target": "family"
+    },
+    {
+      "source": "far",
+      "target": "far"
+    },
+    {
+      "source": "fast",
+      "target": "fast"
+    },
+    {
+      "source": "father",
+      "target": "father"
+    },
+    {
+      "source": "fear",
+      "target": "fear"
+    },
+    {
+      "source": "federal",
+      "target": "federal"
+    },
+    {
+      "source": "feel",
+      "target": "feel"
+    },
+    {
+      "source": "feeling",
+      "target": "feeling"
+    },
+    {
+      "source": "few",
+      "target": "few"
+    },
+    {
+      "source": "field",
+      "target": "field"
+    },
+    {
+      "source": "fight",
+      "target": "fight"
+    },
+    {
+      "source": "figure",
+      "target": "figure"
+    },
+    {
+      "source": "fill",
+      "target": "fill"
+    },
+    {
+      "source": "film",
+      "target": "film"
+    },
+    {
+      "source": "final",
+      "target": "final"
+    },
+    {
+      "source": "finally",
+      "target": "finally"
+    },
+    {
+      "source": "financial",
+      "target": "financial"
+    },
+    {
+      "source": "find",
+      "target": "find"
+    },
+    {
+      "source": "fine",
+      "target": "fine"
+    },
+    {
+      "source": "finger",
+      "target": "finger"
+    },
+    {
+      "source": "finish",
+      "target": "finish"
+    },
+    {
+      "source": "fire",
+      "target": "fire"
+    },
+    {
+      "source": "firm",
+      "target": "firm"
+    },
+    {
+      "source": "first",
+      "target": "first"
+    },
+    {
+      "source": "fish",
+      "target": "fish"
+    },
+    {
+      "source": "five",
+      "target": "five"
+    },
+    {
+      "source": "floor",
+      "target": "floor"
+    },
+    {
+      "source": "fly",
+      "target": "fly"
+    },
+    {
+      "source": "focus",
+      "target": "focus"
+    },
+    {
+      "source": "follow",
+      "target": "follow"
+    },
+    {
+      "source": "food",
+      "target": "food"
+    },
+    {
+      "source": "foot",
+      "target": "foot"
+    },
+    {
+      "source": "for",
+      "target": "for"
+    },
+    {
+      "source": "force",
+      "target": "force"
+    },
+    {
+      "source": "foreign",
+      "target": "foreign"
+    },
+    {
+      "source": "forget",
+      "target": "forget"
+    },
+    {
+      "source": "form",
+      "target": "form"
+    },
+    {
+      "source": "former",
+      "target": "former"
+    },
+    {
+      "source": "forward",
+      "target": "forward"
+    },
+    {
+      "source": "four",
+      "target": "four"
+    },
+    {
+      "source": "free",
+      "target": "free"
+    },
+    {
+      "source": "friend",
+      "target": "friend"
+    },
+    {
+      "source": "from",
+      "target": "from"
+    },
+    {
+      "source": "front",
+      "target": "front"
+    },
+    {
+      "source": "full",
+      "target": "full"
+    },
+    {
+      "source": "fund",
+      "target": "fund"
+    },
+    {
+      "source": "future",
+      "target": "future"
+    },
+    {
+      "source": "game",
+      "target": "game"
+    },
+    {
+      "source": "garden",
+      "target": "garden"
+    },
+    {
+      "source": "gas",
+      "target": "gas"
+    },
+    {
+      "source": "general",
+      "target": "general"
+    },
+    {
+      "source": "generation",
+      "target": "generation"
+    },
+    {
+      "source": "get",
+      "target": "get"
+    },
+    {
+      "source": "girl",
+      "target": "girl"
+    },
+    {
+      "source": "give",
+      "target": "give"
+    },
+    {
+      "source": "glass",
+      "target": "glass"
+    },
+    {
+      "source": "go",
+      "target": "go"
+    },
+    {
+      "source": "goal",
+      "target": "goal"
+    },
+    {
+      "source": "good",
+      "target": "good"
+    },
+    {
+      "source": "government",
+      "target": "government"
+    },
+    {
+      "source": "great",
+      "target": "great"
+    },
+    {
+      "source": "green",
+      "target": "green"
+    },
+    {
+      "source": "ground",
+      "target": "ground"
+    },
+    {
+      "source": "group",
+      "target": "group"
+    },
+    {
+      "source": "grow",
+      "target": "grow"
+    },
+    {
+      "source": "growth",
+      "target": "growth"
+    },
+    {
+      "source": "guess",
+      "target": "guess"
+    },
+    {
+      "source": "gun",
+      "target": "gun"
+    },
+    {
+      "source": "guy",
+      "target": "guy"
+    },
+    {
+      "source": "hair",
+      "target": "hair"
+    },
+    {
+      "source": "half",
+      "target": "half"
+    },
+    {
+      "source": "hand",
+      "target": "hand"
+    },
+    {
+      "source": "hang",
+      "target": "hang"
+    },
+    {
+      "source": "happen",
+      "target": "happen"
+    },
+    {
+      "source": "happy",
+      "target": "happy"
+    },
+    {
+      "source": "hard",
+      "target": "hard"
+    },
+    {
+      "source": "have",
+      "target": "have"
+    },
+    {
+      "source": "he",
+      "target": "he"
+    },
+    {
+      "source": "head",
+      "target": "head"
+    },
+    {
+      "source": "health",
+      "target": "health"
+    },
+    {
+      "source": "hear",
+      "target": "hear"
+    },
+    {
+      "source": "heart",
+      "target": "heart"
+    },
+    {
+      "source": "heat",
+      "target": "heat"
+    },
+    {
+      "source": "heavy",
+      "target": "heavy"
+    },
+    {
+      "source": "help",
+      "target": "help"
+    },
+    {
+      "source": "her",
+      "target": "her"
+    },
+    {
+      "source": "here",
+      "target": "here"
+    },
+    {
+      "source": "herself",
+      "target": "herself"
+    },
+    {
+      "source": "high",
+      "target": "high"
+    },
+    {
+      "source": "him",
+      "target": "him"
+    },
+    {
+      "source": "himself",
+      "target": "himself"
+    },
+    {
+      "source": "his",
+      "target": "his"
+    },
+    {
+      "source": "history",
+      "target": "history"
+    },
+    {
+      "source": "hit",
+      "target": "hit"
+    },
+    {
+      "source": "hold",
+      "target": "hold"
+    },
+    {
+      "source": "home",
+      "target": "home"
+    },
+    {
+      "source": "hope",
+      "target": "hope"
+    },
+    {
+      "source": "hospital",
+      "target": "hospital"
+    },
+    {
+      "source": "hot",
+      "target": "hot"
+    },
+    {
+      "source": "hotel",
+      "target": "hotel"
+    },
+    {
+      "source": "hour",
+      "target": "hour"
+    },
+    {
+      "source": "house",
+      "target": "house"
+    },
+    {
+      "source": "how",
+      "target": "how"
+    },
+    {
+      "source": "however",
+      "target": "however"
+    },
+    {
+      "source": "huge",
+      "target": "huge"
+    },
+    {
+      "source": "human",
+      "target": "human"
+    },
+    {
+      "source": "hundred",
+      "target": "hundred"
+    },
+    {
+      "source": "husband",
+      "target": "husband"
+    },
+    {
+      "source": "I",
+      "target": "I"
+    },
+    {
+      "source": "idea",
+      "target": "idea"
+    },
+    {
+      "source": "identify",
+      "target": "identify"
+    },
+    {
+      "source": "if",
+      "target": "if"
+    },
+    {
+      "source": "image",
+      "target": "image"
+    },
+    {
+      "source": "imagine",
+      "target": "imagine"
+    },
+    {
+      "source": "impact",
+      "target": "impact"
+    },
+    {
+      "source": "important",
+      "target": "important"
+    },
+    {
+      "source": "improve",
+      "target": "improve"
+    },
+    {
+      "source": "in",
+      "target": "in"
+    },
+    {
+      "source": "include",
+      "target": "include"
+    },
+    {
+      "source": "including",
+      "target": "including"
+    },
+    {
+      "source": "increase",
+      "target": "increase"
+    },
+    {
+      "source": "indeed",
+      "target": "indeed"
+    },
+    {
+      "source": "indicate",
+      "target": "indicate"
+    },
+    {
+      "source": "individual",
+      "target": "individual"
+    },
+    {
+      "source": "industry",
+      "target": "industry"
+    },
+    {
+      "source": "information",
+      "target": "information"
+    },
+    {
+      "source": "inside",
+      "target": "inside"
+    },
+    {
+      "source": "instead",
+      "target": "instead"
+    },
+    {
+      "source": "institution",
+      "target": "institution"
+    },
+    {
+      "source": "interest",
+      "target": "interest"
+    },
+    {
+      "source": "interesting",
+      "target": "interesting"
+    },
+    {
+      "source": "international",
+      "target": "international"
+    },
+    {
+      "source": "interview",
+      "target": "interview"
+    },
+    {
+      "source": "into",
+      "target": "into"
+    },
+    {
+      "source": "investment",
+      "target": "investment"
+    },
+    {
+      "source": "involve",
+      "target": "involve"
+    },
+    {
+      "source": "issue",
+      "target": "issue"
+    },
+    {
+      "source": "it",
+      "target": "it"
+    },
+    {
+      "source": "item",
+      "target": "item"
+    },
+    {
+      "source": "its",
+      "target": "its"
+    },
+    {
+      "source": "itself",
+      "target": "itself"
+    },
+    {
+      "source": "job",
+      "target": "job"
+    },
+    {
+      "source": "join",
+      "target": "join"
+    },
+    {
+      "source": "just",
+      "target": "just"
+    },
+    {
+      "source": "keep",
+      "target": "keep"
+    },
+    {
+      "source": "key",
+      "target": "key"
+    },
+    {
+      "source": "kid",
+      "target": "kid"
+    },
+    {
+      "source": "kill",
+      "target": "kill"
+    },
+    {
+      "source": "kind",
+      "target": "kind"
+    },
+    {
+      "source": "kitchen",
+      "target": "kitchen"
+    },
+    {
+      "source": "know",
+      "target": "know"
+    },
+    {
+      "source": "knowledge",
+      "target": "knowledge"
+    },
+    {
+      "source": "land",
+      "target": "land"
+    },
+    {
+      "source": "language",
+      "target": "language"
+    },
+    {
+      "source": "large",
+      "target": "large"
+    },
+    {
+      "source": "last",
+      "target": "last"
+    },
+    {
+      "source": "late",
+      "target": "late"
+    },
+    {
+      "source": "later",
+      "target": "later"
+    },
+    {
+      "source": "laugh",
+      "target": "laugh"
+    },
+    {
+      "source": "law",
+      "target": "law"
+    },
+    {
+      "source": "lawyer",
+      "target": "lawyer"
+    },
+    {
+      "source": "lay",
+      "target": "lay"
+    },
+    {
+      "source": "lead",
+      "target": "lead"
+    },
+    {
+      "source": "leader",
+      "target": "leader"
+    },
+    {
+      "source": "learn",
+      "target": "learn"
+    },
+    {
+      "source": "least",
+      "target": "least"
+    },
+    {
+      "source": "leave",
+      "target": "leave"
+    },
+    {
+      "source": "left",
+      "target": "left"
+    },
+    {
+      "source": "leg",
+      "target": "leg"
+    },
+    {
+      "source": "legal",
+      "target": "legal"
+    },
+    {
+      "source": "less",
+      "target": "less"
+    },
+    {
+      "source": "let",
+      "target": "let"
+    },
+    {
+      "source": "letter",
+      "target": "letter"
+    },
+    {
+      "source": "level",
+      "target": "level"
+    },
+    {
+      "source": "lie",
+      "target": "lie"
+    },
+    {
+      "source": "life",
+      "target": "life"
+    },
+    {
+      "source": "light",
+      "target": "light"
+    },
+    {
+      "source": "like",
+      "target": "like"
+    },
+    {
+      "source": "likely",
+      "target": "likely"
+    },
+    {
+      "source": "line",
+      "target": "line"
+    },
+    {
+      "source": "list",
+      "target": "list"
+    },
+    {
+      "source": "listen",
+      "target": "listen"
+    },
+    {
+      "source": "little",
+      "target": "little"
+    },
+    {
+      "source": "live",
+      "target": "live"
+    },
+    {
+      "source": "local",
+      "target": "local"
+    },
+    {
+      "source": "long",
+      "target": "long"
+    },
+    {
+      "source": "look",
+      "target": "look"
+    },
+    {
+      "source": "lose",
+      "target": "lose"
+    },
+    {
+      "source": "loss",
+      "target": "loss"
+    },
+    {
+      "source": "lot",
+      "target": "lot"
+    },
+    {
+      "source": "love",
+      "target": "love"
+    },
+    {
+      "source": "low",
+      "target": "low"
+    },
+    {
+      "source": "machine",
+      "target": "machine"
+    },
+    {
+      "source": "magazine",
+      "target": "magazine"
+    },
+    {
+      "source": "main",
+      "target": "main"
+    },
+    {
+      "source": "maintain",
+      "target": "maintain"
+    },
+    {
+      "source": "major",
+      "target": "major"
+    },
+    {
+      "source": "majority",
+      "target": "majority"
+    },
+    {
+      "source": "make",
+      "target": "make"
+    },
+    {
+      "source": "man",
+      "target": "man"
+    },
+    {
+      "source": "manage",
+      "target": "manage"
+    },
+    {
+      "source": "management",
+      "target": "management"
+    },
+    {
+      "source": "manager",
+      "target": "manager"
+    },
+    {
+      "source": "many",
+      "target": "many"
+    },
+    {
+      "source": "market",
+      "target": "market"
+    },
+    {
+      "source": "marriage",
+      "target": "marriage"
+    },
+    {
+      "source": "material",
+      "target": "material"
+    },
+    {
+      "source": "matter",
+      "target": "matter"
+    },
+    {
+      "source": "may",
+      "target": "may"
+    },
+    {
+      "source": "maybe",
+      "target": "maybe"
+    },
+    {
+      "source": "me",
+      "target": "me"
+    },
+    {
+      "source": "mean",
+      "target": "mean"
+    },
+    {
+      "source": "measure",
+      "target": "measure"
+    },
+    {
+      "source": "media",
+      "target": "media"
+    },
+    {
+      "source": "medical",
+      "target": "medical"
+    },
+    {
+      "source": "meet",
+      "target": "meet"
+    },
+    {
+      "source": "meeting",
+      "target": "meeting"
+    },
+    {
+      "source": "member",
+      "target": "member"
+    },
+    {
+      "source": "memory",
+      "target": "memory"
+    },
+    {
+      "source": "mention",
+      "target": "mention"
+    },
+    {
+      "source": "message",
+      "target": "message"
+    },
+    {
+      "source": "method",
+      "target": "method"
+    },
+    {
+      "source": "middle",
+      "target": "middle"
+    },
+    {
+      "source": "might",
+      "target": "might"
+    },
+    {
+      "source": "military",
+      "target": "military"
+    },
+    {
+      "source": "million",
+      "target": "million"
+    },
+    {
+      "source": "mind",
+      "target": "mind"
+    },
+    {
+      "source": "minute",
+      "target": "minute"
+    },
+    {
+      "source": "miss",
+      "target": "miss"
+    },
+    {
+      "source": "mission",
+      "target": "mission"
+    },
+    {
+      "source": "model",
+      "target": "model"
+    },
+    {
+      "source": "modern",
+      "target": "modern"
+    },
+    {
+      "source": "moment",
+      "target": "moment"
+    },
+    {
+      "source": "money",
+      "target": "money"
+    },
+    {
+      "source": "month",
+      "target": "month"
+    },
+    {
+      "source": "more",
+      "target": "more"
+    },
+    {
+      "source": "morning",
+      "target": "morning"
+    },
+    {
+      "source": "most",
+      "target": "most"
+    },
+    {
+      "source": "mother",
+      "target": "mother"
+    },
+    {
+      "source": "mouth",
+      "target": "mouth"
+    },
+    {
+      "source": "move",
+      "target": "move"
+    },
+    {
+      "source": "movement",
+      "target": "movement"
+    },
+    {
+      "source": "movie",
+      "target": "movie"
+    },
+    {
+      "source": "Mr",
+      "target": "Mr"
+    },
+    {
+      "source": "Mrs",
+      "target": "Mrs"
+    },
+    {
+      "source": "much",
+      "target": "much"
+    },
+    {
+      "source": "music",
+      "target": "music"
+    },
+    {
+      "source": "must",
+      "target": "must"
+    },
+    {
+      "source": "my",
+      "target": "my"
+    },
+    {
+      "source": "myself",
+      "target": "myself"
+    },
+    {
+      "source": "name",
+      "target": "name"
+    },
+    {
+      "source": "nation",
+      "target": "nation"
+    },
+    {
+      "source": "national",
+      "target": "national"
+    },
+    {
+      "source": "natural",
+      "target": "natural"
+    },
+    {
+      "source": "nature",
+      "target": "nature"
+    },
+    {
+      "source": "near",
+      "target": "near"
+    },
+    {
+      "source": "nearly",
+      "target": "nearly"
+    },
+    {
+      "source": "necessary",
+      "target": "necessary"
+    },
+    {
+      "source": "need",
+      "target": "need"
+    },
+    {
+      "source": "network",
+      "target": "network"
+    },
+    {
+      "source": "never",
+      "target": "never"
+    },
+    {
+      "source": "new",
+      "target": "new"
+    },
+    {
+      "source": "news",
+      "target": "news"
+    },
+    {
+      "source": "newspaper",
+      "target": "newspaper"
+    },
+    {
+      "source": "next",
+      "target": "next"
+    },
+    {
+      "source": "nice",
+      "target": "nice"
+    },
+    {
+      "source": "night",
+      "target": "night"
+    },
+    {
+      "source": "no",
+      "target": "no"
+    },
+    {
+      "source": "none",
+      "target": "none"
+    },
+    {
+      "source": "nor",
+      "target": "nor"
+    },
+    {
+      "source": "north",
+      "target": "north"
+    },
+    {
+      "source": "not",
+      "target": "not"
+    },
+    {
+      "source": "note",
+      "target": "note"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing"
+    },
+    {
+      "source": "notice",
+      "target": "notice"
+    },
+    {
+      "source": "now",
+      "target": "now"
+    },
+    {
+      "source": "n't",
+      "target": "n"
+    },
+    {
+      "source": "number",
+      "target": "number"
+    },
+    {
+      "source": "occur",
+      "target": "occur"
+    },
+    {
+      "source": "of",
+      "target": "of"
+    },
+    {
+      "source": "off",
+      "target": "off"
+    },
+    {
+      "source": "offer",
+      "target": "offer"
+    },
+    {
+      "source": "office",
+      "target": "office"
+    },
+    {
+      "source": "officer",
+      "target": "officer"
+    },
+    {
+      "source": "official",
+      "target": "official"
+    },
+    {
+      "source": "often",
+      "target": "often"
+    },
+    {
+      "source": "oh",
+      "target": "oh"
+    },
+    {
+      "source": "oil",
+      "target": "oil"
+    },
+    {
+      "source": "ok",
+      "target": "ok"
+    },
+    {
+      "source": "old",
+      "target": "old"
+    },
+    {
+      "source": "on",
+      "target": "on"
+    },
+    {
+      "source": "once",
+      "target": "once"
+    },
+    {
+      "source": "one",
+      "target": "one"
+    },
+    {
+      "source": "only",
+      "target": "only"
+    },
+    {
+      "source": "onto",
+      "target": "onto"
+    },
+    {
+      "source": "open",
+      "target": "open"
+    },
+    {
+      "source": "operation",
+      "target": "operation"
+    },
+    {
+      "source": "opportunity",
+      "target": "opportunity"
+    },
+    {
+      "source": "option",
+      "target": "option"
+    },
+    {
+      "source": "or",
+      "target": "or"
+    },
+    {
+      "source": "order",
+      "target": "order"
+    },
+    {
+      "source": "organization",
+      "target": "organization"
+    },
+    {
+      "source": "other",
+      "target": "other"
+    },
+    {
+      "source": "others",
+      "target": "others"
+    },
+    {
+      "source": "our",
+      "target": "our"
+    },
+    {
+      "source": "out",
+      "target": "out"
+    },
+    {
+      "source": "outside",
+      "target": "outside"
+    },
+    {
+      "source": "over",
+      "target": "over"
+    },
+    {
+      "source": "own",
+      "target": "own"
+    },
+    {
+      "source": "owner",
+      "target": "owner"
+    },
+    {
+      "source": "page",
+      "target": "page"
+    },
+    {
+      "source": "pain",
+      "target": "pain"
+    },
+    {
+      "source": "painting",
+      "target": "painting"
+    },
+    {
+      "source": "paper",
+      "target": "paper"
+    },
+    {
+      "source": "parent",
+      "target": "parent"
+    },
+    {
+      "source": "part",
+      "target": "part"
+    },
+    {
+      "source": "participant",
+      "target": "participant"
+    },
+    {
+      "source": "particular",
+      "target": "particular"
+    },
+    {
+      "source": "particularly",
+      "target": "particularly"
+    },
+    {
+      "source": "partner",
+      "target": "partner"
+    },
+    {
+      "source": "party",
+      "target": "party"
+    },
+    {
+      "source": "pass",
+      "target": "pass"
+    },
+    {
+      "source": "past",
+      "target": "past"
+    },
+    {
+      "source": "patient",
+      "target": "patient"
+    },
+    {
+      "source": "pattern",
+      "target": "pattern"
+    },
+    {
+      "source": "pay",
+      "target": "pay"
+    },
+    {
+      "source": "peace",
+      "target": "peace"
+    },
+    {
+      "source": "people",
+      "target": "people"
+    },
+    {
+      "source": "per",
+      "target": "per"
+    },
+    {
+      "source": "perform",
+      "target": "perform"
+    },
+    {
+      "source": "performance",
+      "target": "performance"
+    },
+    {
+      "source": "perhaps",
+      "target": "perhaps"
+    },
+    {
+      "source": "period",
+      "target": "period"
+    },
+    {
+      "source": "person",
+      "target": "person"
+    },
+    {
+      "source": "personal",
+      "target": "personal"
+    },
+    {
+      "source": "phone",
+      "target": "phone"
+    },
+    {
+      "source": "physical",
+      "target": "physical"
+    },
+    {
+      "source": "pick",
+      "target": "pick"
+    },
+    {
+      "source": "picture",
+      "target": "picture"
+    },
+    {
+      "source": "piece",
+      "target": "piece"
+    },
+    {
+      "source": "place",
+      "target": "place"
+    },
+    {
+      "source": "plan",
+      "target": "plan"
+    },
+    {
+      "source": "plant",
+      "target": "plant"
+    },
+    {
+      "source": "play",
+      "target": "play"
+    },
+    {
+      "source": "player",
+      "target": "player"
+    },
+    {
+      "source": "PM",
+      "target": "PM"
+    },
+    {
+      "source": "point",
+      "target": "point"
+    },
+    {
+      "source": "police",
+      "target": "police"
+    },
+    {
+      "source": "policy",
+      "target": "policy"
+    },
+    {
+      "source": "political",
+      "target": "political"
+    },
+    {
+      "source": "politics",
+      "target": "politics"
+    },
+    {
+      "source": "poor",
+      "target": "poor"
+    },
+    {
+      "source": "popular",
+      "target": "popular"
+    },
+    {
+      "source": "population",
+      "target": "population"
+    },
+    {
+      "source": "position",
+      "target": "position"
+    },
+    {
+      "source": "positive",
+      "target": "positive"
+    },
+    {
+      "source": "possible",
+      "target": "possible"
+    },
+    {
+      "source": "power",
+      "target": "power"
+    },
+    {
+      "source": "practice",
+      "target": "practice"
+    },
+    {
+      "source": "prepare",
+      "target": "prepare"
+    },
+    {
+      "source": "present",
+      "target": "present"
+    },
+    {
+      "source": "president",
+      "target": "president"
+    },
+    {
+      "source": "pressure",
+      "target": "pressure"
+    },
+    {
+      "source": "pretty",
+      "target": "pretty"
+    },
+    {
+      "source": "prevent",
+      "target": "prevent"
+    },
+    {
+      "source": "price",
+      "target": "price"
+    },
+    {
+      "source": "private",
+      "target": "private"
+    },
+    {
+      "source": "probably",
+      "target": "probably"
+    },
+    {
+      "source": "problem",
+      "target": "problem"
+    },
+    {
+      "source": "process",
+      "target": "process"
+    },
+    {
+      "source": "produce",
+      "target": "produce"
+    },
+    {
+      "source": "product",
+      "target": "product"
+    },
+    {
+      "source": "production",
+      "target": "production"
+    },
+    {
+      "source": "professional",
+      "target": "professional"
+    },
+    {
+      "source": "professor",
+      "target": "professor"
+    },
+    {
+      "source": "program",
+      "target": "program"
+    },
+    {
+      "source": "project",
+      "target": "project"
+    },
+    {
+      "source": "property",
+      "target": "property"
+    },
+    {
+      "source": "protect",
+      "target": "protect"
+    },
+    {
+      "source": "prove",
+      "target": "prove"
+    },
+    {
+      "source": "provide",
+      "target": "provide"
+    },
+    {
+      "source": "public",
+      "target": "public"
+    },
+    {
+      "source": "pull",
+      "target": "pull"
+    },
+    {
+      "source": "purpose",
+      "target": "purpose"
+    },
+    {
+      "source": "push",
+      "target": "push"
+    },
+    {
+      "source": "put",
+      "target": "put"
+    },
+    {
+      "source": "quality",
+      "target": "quality"
+    },
+    {
+      "source": "question",
+      "target": "question"
+    },
+    {
+      "source": "quickly",
+      "target": "quickly"
+    },
+    {
+      "source": "quite",
+      "target": "quite"
+    },
+    {
+      "source": "race",
+      "target": "race"
+    },
+    {
+      "source": "radio",
+      "target": "radio"
+    },
+    {
+      "source": "raise",
+      "target": "raise"
+    },
+    {
+      "source": "range",
+      "target": "range"
+    },
+    {
+      "source": "rate",
+      "target": "rate"
+    },
+    {
+      "source": "rather",
+      "target": "rather"
+    },
+    {
+      "source": "reach",
+      "target": "reach"
+    },
+    {
+      "source": "read",
+      "target": "read"
+    },
+    {
+      "source": "ready",
+      "target": "ready"
+    },
+    {
+      "source": "real",
+      "target": "real"
+    },
+    {
+      "source": "reality",
+      "target": "reality"
+    },
+    {
+      "source": "realize",
+      "target": "realize"
+    },
+    {
+      "source": "really",
+      "target": "really"
+    },
+    {
+      "source": "reason",
+      "target": "reason"
+    },
+    {
+      "source": "receive",
+      "target": "receive"
+    },
+    {
+      "source": "recent",
+      "target": "recent"
+    },
+    {
+      "source": "recently",
+      "target": "recently"
+    },
+    {
+      "source": "recognize",
+      "target": "recognize"
+    },
+    {
+      "source": "record",
+      "target": "record"
+    },
+    {
+      "source": "red",
+      "target": "red"
+    },
+    {
+      "source": "reduce",
+      "target": "reduce"
+    },
+    {
+      "source": "reflect",
+      "target": "reflect"
+    },
+    {
+      "source": "region",
+      "target": "region"
+    },
+    {
+      "source": "relate",
+      "target": "relate"
+    },
+    {
+      "source": "relationship",
+      "target": "relationship"
+    },
+    {
+      "source": "religious",
+      "target": "religious"
+    },
+    {
+      "source": "remain",
+      "target": "remain"
+    },
+    {
+      "source": "remember",
+      "target": "remember"
+    },
+    {
+      "source": "remove",
+      "target": "remove"
+    },
+    {
+      "source": "report",
+      "target": "report"
+    },
+    {
+      "source": "represent",
+      "target": "represent"
+    },
+    {
+      "source": "Republican",
+      "target": "Republican"
+    },
+    {
+      "source": "require",
+      "target": "require"
+    },
+    {
+      "source": "research",
+      "target": "research"
+    },
+    {
+      "source": "resource",
+      "target": "resource"
+    },
+    {
+      "source": "respond",
+      "target": "respond"
+    },
+    {
+      "source": "response",
+      "target": "response"
+    },
+    {
+      "source": "responsibility",
+      "target": "responsibility"
+    },
+    {
+      "source": "rest",
+      "target": "rest"
+    },
+    {
+      "source": "result",
+      "target": "result"
+    },
+    {
+      "source": "return",
+      "target": "return"
+    },
+    {
+      "source": "reveal",
+      "target": "reveal"
+    },
+    {
+      "source": "rich",
+      "target": "rich"
+    },
+    {
+      "source": "right",
+      "target": "right"
+    },
+    {
+      "source": "rise",
+      "target": "rise"
+    },
+    {
+      "source": "risk",
+      "target": "risk"
+    },
+    {
+      "source": "road",
+      "target": "road"
+    },
+    {
+      "source": "rock",
+      "target": "rock"
+    },
+    {
+      "source": "role",
+      "target": "role"
+    },
+    {
+      "source": "room",
+      "target": "room"
+    },
+    {
+      "source": "rule",
+      "target": "rule"
+    },
+    {
+      "source": "run",
+      "target": "run"
+    },
+    {
+      "source": "safe",
+      "target": "safe"
+    },
+    {
+      "source": "same",
+      "target": "same"
+    },
+    {
+      "source": "save",
+      "target": "save"
+    },
+    {
+      "source": "say",
+      "target": "say"
+    },
+    {
+      "source": "scene",
+      "target": "scene"
+    },
+    {
+      "source": "school",
+      "target": "school"
+    },
+    {
+      "source": "science",
+      "target": "science"
+    },
+    {
+      "source": "scientist",
+      "target": "scientist"
+    },
+    {
+      "source": "score",
+      "target": "score"
+    },
+    {
+      "source": "sea",
+      "target": "sea"
+    },
+    {
+      "source": "season",
+      "target": "season"
+    },
+    {
+      "source": "seat",
+      "target": "seat"
+    },
+    {
+      "source": "second",
+      "target": "second"
+    },
+    {
+      "source": "section",
+      "target": "section"
+    },
+    {
+      "source": "security",
+      "target": "security"
+    },
+    {
+      "source": "see",
+      "target": "see"
+    },
+    {
+      "source": "seek",
+      "target": "seek"
+    },
+    {
+      "source": "seem",
+      "target": "seem"
+    },
+    {
+      "source": "sell",
+      "target": "sell"
+    },
+    {
+      "source": "send",
+      "target": "send"
+    },
+    {
+      "source": "senior",
+      "target": "senior"
+    },
+    {
+      "source": "sense",
+      "target": "sense"
+    },
+    {
+      "source": "series",
+      "target": "series"
+    },
+    {
+      "source": "serious",
+      "target": "serious"
+    },
+    {
+      "source": "serve",
+      "target": "serve"
+    },
+    {
+      "source": "service",
+      "target": "service"
+    },
+    {
+      "source": "set",
+      "target": "set"
+    },
+    {
+      "source": "seven",
+      "target": "seven"
+    },
+    {
+      "source": "several",
+      "target": "several"
+    },
+    {
+      "source": "sex",
+      "target": "sex"
+    },
+    {
+      "source": "sexual",
+      "target": "sexual"
+    },
+    {
+      "source": "shake",
+      "target": "shake"
+    },
+    {
+      "source": "share",
+      "target": "share"
+    },
+    {
+      "source": "she",
+      "target": "she"
+    },
+    {
+      "source": "shoot",
+      "target": "shoot"
+    },
+    {
+      "source": "short",
+      "target": "short"
+    },
+    {
+      "source": "shot",
+      "target": "shot"
+    },
+    {
+      "source": "should",
+      "target": "should"
+    },
+    {
+      "source": "shoulder",
+      "target": "shoulder"
+    },
+    {
+      "source": "show",
+      "target": "show"
+    },
+    {
+      "source": "side",
+      "target": "side"
+    },
+    {
+      "source": "sign",
+      "target": "sign"
+    },
+    {
+      "source": "significant",
+      "target": "significant"
+    },
+    {
+      "source": "similar",
+      "target": "similar"
+    },
+    {
+      "source": "simple",
+      "target": "simple"
+    },
+    {
+      "source": "simply",
+      "target": "simply"
+    },
+    {
+      "source": "since",
+      "target": "since"
+    },
+    {
+      "source": "sing",
+      "target": "sing"
+    },
+    {
+      "source": "single",
+      "target": "single"
+    },
+    {
+      "source": "sister",
+      "target": "sister"
+    },
+    {
+      "source": "sit",
+      "target": "sit"
+    },
+    {
+      "source": "site",
+      "target": "site"
+    },
+    {
+      "source": "situation",
+      "target": "situation"
+    },
+    {
+      "source": "six",
+      "target": "six"
+    },
+    {
+      "source": "size",
+      "target": "size"
+    },
+    {
+      "source": "skill",
+      "target": "skill"
+    },
+    {
+      "source": "skin",
+      "target": "skin"
+    },
+    {
+      "source": "small",
+      "target": "small"
+    },
+    {
+      "source": "smile",
+      "target": "smile"
+    },
+    {
+      "source": "so",
+      "target": "so"
+    },
+    {
+      "source": "social",
+      "target": "social"
+    },
+    {
+      "source": "society",
+      "target": "society"
+    },
+    {
+      "source": "soldier",
+      "target": "soldier"
+    },
+    {
+      "source": "some",
+      "target": "some"
+    },
+    {
+      "source": "somebody",
+      "target": "somebody"
+    },
+    {
+      "source": "someone",
+      "target": "someone"
+    },
+    {
+      "source": "something",
+      "target": "something"
+    },
+    {
+      "source": "sometimes",
+      "target": "sometimes"
+    },
+    {
+      "source": "son",
+      "target": "son"
+    },
+    {
+      "source": "song",
+      "target": "song"
+    },
+    {
+      "source": "soon",
+      "target": "soon"
+    },
+    {
+      "source": "sort",
+      "target": "sort"
+    },
+    {
+      "source": "sound",
+      "target": "sound"
+    },
+    {
+      "source": "target",
+      "target": "target"
+    },
+    {
+      "source": "south",
+      "target": "south"
+    },
+    {
+      "source": "southern",
+      "target": "southern"
+    },
+    {
+      "source": "space",
+      "target": "space"
+    },
+    {
+      "source": "speak",
+      "target": "speak"
+    },
+    {
+      "source": "special",
+      "target": "special"
+    },
+    {
+      "source": "specific",
+      "target": "specific"
+    },
+    {
+      "source": "speech",
+      "target": "speech"
+    },
+    {
+      "source": "spend",
+      "target": "spend"
+    },
+    {
+      "source": "sport",
+      "target": "sport"
+    },
+    {
+      "source": "spring",
+      "target": "spring"
+    },
+    {
+      "source": "staff",
+      "target": "staff"
+    },
+    {
+      "source": "stage",
+      "target": "stage"
+    },
+    {
+      "source": "stand",
+      "target": "stand"
+    },
+    {
+      "source": "standard",
+      "target": "standard"
+    },
+    {
+      "source": "star",
+      "target": "star"
+    },
+    {
+      "source": "start",
+      "target": "start"
+    },
+    {
+      "source": "state",
+      "target": "state"
+    },
+    {
+      "source": "statement",
+      "target": "statement"
+    },
+    {
+      "source": "station",
+      "target": "station"
+    },
+    {
+      "source": "stay",
+      "target": "stay"
+    },
+    {
+      "source": "step",
+      "target": "step"
+    },
+    {
+      "source": "still",
+      "target": "still"
+    },
+    {
+      "source": "stock",
+      "target": "stock"
+    },
+    {
+      "source": "stop",
+      "target": "stop"
+    },
+    {
+      "source": "store",
+      "target": "store"
+    },
+    {
+      "source": "story",
+      "target": "story"
+    },
+    {
+      "source": "strategy",
+      "target": "strategy"
+    },
+    {
+      "source": "street",
+      "target": "street"
+    },
+    {
+      "source": "strong",
+      "target": "strong"
+    },
+    {
+      "source": "structure",
+      "target": "structure"
+    },
+    {
+      "source": "student",
+      "target": "student"
+    },
+    {
+      "source": "study",
+      "target": "study"
+    },
+    {
+      "source": "stuff",
+      "target": "stuff"
+    },
+    {
+      "source": "style",
+      "target": "style"
+    },
+    {
+      "source": "subject",
+      "target": "subject"
+    },
+    {
+      "source": "success",
+      "target": "success"
+    },
+    {
+      "source": "successful",
+      "target": "successful"
+    },
+    {
+      "source": "such",
+      "target": "such"
+    },
+    {
+      "source": "suddenly",
+      "target": "suddenly"
+    },
+    {
+      "source": "suffer",
+      "target": "suffer"
+    },
+    {
+      "source": "suggest",
+      "target": "suggest"
+    },
+    {
+      "source": "summer",
+      "target": "summer"
+    },
+    {
+      "source": "support",
+      "target": "support"
+    },
+    {
+      "source": "sure",
+      "target": "sure"
+    },
+    {
+      "source": "surface",
+      "target": "surface"
+    },
+    {
+      "source": "system",
+      "target": "system"
+    },
+    {
+      "source": "table",
+      "target": "table"
+    },
+    {
+      "source": "take",
+      "target": "take"
+    },
+    {
+      "source": "talk",
+      "target": "talk"
+    },
+    {
+      "source": "task",
+      "target": "task"
+    },
+    {
+      "source": "tax",
+      "target": "tax"
+    },
+    {
+      "source": "teach",
+      "target": "teach"
+    },
+    {
+      "source": "teacher",
+      "target": "teacher"
+    },
+    {
+      "source": "team",
+      "target": "team"
+    },
+    {
+      "source": "technology",
+      "target": "technology"
+    },
+    {
+      "source": "television",
+      "target": "television"
+    },
+    {
+      "source": "tell",
+      "target": "tell"
+    },
+    {
+      "source": "ten",
+      "target": "ten"
+    },
+    {
+      "source": "tend",
+      "target": "tend"
+    },
+    {
+      "source": "term",
+      "target": "term"
+    },
+    {
+      "source": "test",
+      "target": "test"
+    },
+    {
+      "source": "than",
+      "target": "than"
+    },
+    {
+      "source": "thank",
+      "target": "thank"
+    },
+    {
+      "source": "that",
+      "target": "that"
+    },
+    {
+      "source": "the",
+      "target": "the"
+    },
+    {
+      "source": "their",
+      "target": "their"
+    },
+    {
+      "source": "them",
+      "target": "them"
+    },
+    {
+      "source": "themselves",
+      "target": "themselves"
+    },
+    {
+      "source": "then",
+      "target": "then"
+    },
+    {
+      "source": "theory",
+      "target": "theory"
+    },
+    {
+      "source": "there",
+      "target": "there"
+    },
+    {
+      "source": "these",
+      "target": "these"
+    },
+    {
+      "source": "they",
+      "target": "they"
+    },
+    {
+      "source": "thing",
+      "target": "thing"
+    },
+    {
+      "source": "think",
+      "target": "think"
+    },
+    {
+      "source": "third",
+      "target": "third"
+    },
+    {
+      "source": "this",
+      "target": "this"
+    },
+    {
+      "source": "those",
+      "target": "those"
+    },
+    {
+      "source": "though",
+      "target": "though"
+    },
+    {
+      "source": "thought",
+      "target": "thought"
+    },
+    {
+      "source": "thousand",
+      "target": "thousand"
+    },
+    {
+      "source": "threat",
+      "target": "threat"
+    },
+    {
+      "source": "three",
+      "target": "three"
+    },
+    {
+      "source": "through",
+      "target": "through"
+    },
+    {
+      "source": "throughout",
+      "target": "throughout"
+    },
+    {
+      "source": "throw",
+      "target": "throw"
+    },
+    {
+      "source": "thus",
+      "target": "thus"
+    },
+    {
+      "source": "time",
+      "target": "time"
+    },
+    {
+      "source": "to",
+      "target": "to"
+    },
+    {
+      "source": "today",
+      "target": "today"
+    },
+    {
+      "source": "together",
+      "target": "together"
+    },
+    {
+      "source": "tonight",
+      "target": "tonight"
+    },
+    {
+      "source": "too",
+      "target": "too"
+    },
+    {
+      "source": "top",
+      "target": "top"
+    },
+    {
+      "source": "total",
+      "target": "total"
+    },
+    {
+      "source": "tough",
+      "target": "tough"
+    },
+    {
+      "source": "toward",
+      "target": "toward"
+    },
+    {
+      "source": "town",
+      "target": "town"
+    },
+    {
+      "source": "trade",
+      "target": "trade"
+    },
+    {
+      "source": "traditional",
+      "target": "traditional"
+    },
+    {
+      "source": "training",
+      "target": "training"
+    },
+    {
+      "source": "travel",
+      "target": "travel"
+    },
+    {
+      "source": "treat",
+      "target": "treat"
+    },
+    {
+      "source": "treatment",
+      "target": "treatment"
+    },
+    {
+      "source": "tree",
+      "target": "tree"
+    },
+    {
+      "source": "trial",
+      "target": "trial"
+    },
+    {
+      "source": "trip",
+      "target": "trip"
+    },
+    {
+      "source": "trouble",
+      "target": "trouble"
+    },
+    {
+      "source": "true",
+      "target": "true"
+    },
+    {
+      "source": "truth",
+      "target": "truth"
+    },
+    {
+      "source": "try",
+      "target": "try"
+    },
+    {
+      "source": "turn",
+      "target": "turn"
+    },
+    {
+      "source": "TV",
+      "target": "TV"
+    },
+    {
+      "source": "two",
+      "target": "two"
+    },
+    {
+      "source": "type",
+      "target": "type"
+    },
+    {
+      "source": "under",
+      "target": "under"
+    },
+    {
+      "source": "understand",
+      "target": "understand"
+    },
+    {
+      "source": "unit",
+      "target": "unit"
+    },
+    {
+      "source": "until",
+      "target": "until"
+    },
+    {
+      "source": "up",
+      "target": "up"
+    },
+    {
+      "source": "upon",
+      "target": "upon"
+    },
+    {
+      "source": "us",
+      "target": "us"
+    },
+    {
+      "source": "use",
+      "target": "use"
+    },
+    {
+      "source": "usually",
+      "target": "usually"
+    },
+    {
+      "source": "value",
+      "target": "value"
+    },
+    {
+      "source": "various",
+      "target": "various"
+    },
+    {
+      "source": "very",
+      "target": "very"
+    },
+    {
+      "source": "victim",
+      "target": "victim"
+    },
+    {
+      "source": "view",
+      "target": "view"
+    },
+    {
+      "source": "violence",
+      "target": "violence"
+    },
+    {
+      "source": "visit",
+      "target": "visit"
+    },
+    {
+      "source": "voice",
+      "target": "voice"
+    },
+    {
+      "source": "vote",
+      "target": "vote"
+    },
+    {
+      "source": "wait",
+      "target": "wait"
+    },
+    {
+      "source": "walk",
+      "target": "walk"
+    },
+    {
+      "source": "wall",
+      "target": "wall"
+    },
+    {
+      "source": "want",
+      "target": "want"
+    },
+    {
+      "source": "war",
+      "target": "war"
+    },
+    {
+      "source": "watch",
+      "target": "watch"
+    },
+    {
+      "source": "water",
+      "target": "water"
+    },
+    {
+      "source": "way",
+      "target": "way"
+    },
+    {
+      "source": "we",
+      "target": "we"
+    },
+    {
+      "source": "weapon",
+      "target": "weapon"
+    },
+    {
+      "source": "wear",
+      "target": "wear"
+    },
+    {
+      "source": "week",
+      "target": "week"
+    },
+    {
+      "source": "weight",
+      "target": "weight"
+    },
+    {
+      "source": "well",
+      "target": "well"
+    },
+    {
+      "source": "west",
+      "target": "west"
+    },
+    {
+      "source": "western",
+      "target": "western"
+    },
+    {
+      "source": "what",
+      "target": "what"
+    },
+    {
+      "source": "whatever",
+      "target": "whatever"
+    },
+    {
+      "source": "when",
+      "target": "when"
+    },
+    {
+      "source": "where",
+      "target": "where"
+    },
+    {
+      "source": "whether",
+      "target": "whether"
+    },
+    {
+      "source": "which",
+      "target": "which"
+    },
+    {
+      "source": "while",
+      "target": "while"
+    },
+    {
+      "source": "white",
+      "target": "white"
+    },
+    {
+      "source": "who",
+      "target": "who"
+    },
+    {
+      "source": "whole",
+      "target": "whole"
+    },
+    {
+      "source": "whom",
+      "target": "whom"
+    },
+    {
+      "source": "whose",
+      "target": "whose"
+    },
+    {
+      "source": "why",
+      "target": "why"
+    },
+    {
+      "source": "wide",
+      "target": "wide"
+    },
+    {
+      "source": "wife",
+      "target": "wife"
+    },
+    {
+      "source": "will",
+      "target": "will"
+    },
+    {
+      "source": "win",
+      "target": "win"
+    },
+    {
+      "source": "wind",
+      "target": "wind"
+    },
+    {
+      "source": "window",
+      "target": "window"
+    },
+    {
+      "source": "wish",
+      "target": "wish"
+    },
+    {
+      "source": "with",
+      "target": "with"
+    },
+    {
+      "source": "within",
+      "target": "within"
+    },
+    {
+      "source": "without",
+      "target": "without"
+    },
+    {
+      "source": "woman",
+      "target": "woman"
+    },
+    {
+      "source": "wonder",
+      "target": "wonder"
+    },
+    {
+      "source": "word",
+      "target": "word"
+    },
+    {
+      "source": "work",
+      "target": "work"
+    },
+    {
+      "source": "worker",
+      "target": "worker"
+    },
+    {
+      "source": "world",
+      "target": "world"
+    },
+    {
+      "source": "worry",
+      "target": "worry"
+    },
+    {
+      "source": "would",
+      "target": "would"
+    },
+    {
+      "source": "write",
+      "target": "write"
+    },
+    {
+      "source": "writer",
+      "target": "writer"
+    },
+    {
+      "source": "wrong",
+      "target": "wrong"
+    },
+    {
+      "source": "yard",
+      "target": "yard"
+    },
+    {
+      "source": "yeah",
+      "target": "yeah"
+    },
+    {
+      "source": "year",
+      "target": "year"
+    },
+    {
+      "source": "yes",
+      "target": "yes"
+    },
+    {
+      "source": "yet",
+      "target": "yet"
+    },
+    {
+      "source": "you",
+      "target": "you"
+    },
+    {
+      "source": "young",
+      "target": "young"
+    },
+    {
+      "source": "your",
+      "target": "your"
+    },
+    {
+      "source": "yourself",
+      "target": "yourself"
+    }
+  ]
+}
